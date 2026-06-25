@@ -7,7 +7,11 @@ from urllib.request import Request, urlopen
 
 SOURCE_URL = "https://www.whitehouse.gov/wp-content/themes/whitehouse/static-assets/flourish/flourish-geo-embed/map/index.html"
 
-ROOT = Path(__file__).resolve().parents[1]
+try:
+    ROOT = Path(__file__).resolve().parents[1]
+except NameError:
+    ROOT = Path.cwd()
+
 LATEST = ROOT / "data" / "latest"
 ARCHIVE = ROOT / "data" / "archive"
 
@@ -19,9 +23,13 @@ def fetch_html(url: str) -> str:
 
 
 def extract_js_object(html: str, var_name: str) -> str:
-    start = html.find(f"var {var_name}")
+    marker = f"var {var_name} ="
+    start = html.find(marker)
+
     if start == -1:
-        start = html.find(f"{var_name} =")
+        marker = f"{var_name} ="
+        start = html.find(marker)
+
     if start == -1:
         raise ValueError(f"{var_name} not found")
 
@@ -68,10 +76,15 @@ def get_events(data: dict):
 
     if isinstance(events, dict):
         for key in ("data", "rows", "values"):
-            if isinstance(events.get(key), list):
-                return events[key]
+            value = events.get(key)
+            if isinstance(value, list):
+                return value
 
-    raise ValueError(f"Could not find events table. Top-level keys: {list(data.keys())}")
+    raise ValueError(
+        "Could not find events table. "
+        f"type(data['events'])={type(events).__name__}; "
+        f"sample={str(events)[:500]}"
+    )
 
 
 def clean_events(events):
