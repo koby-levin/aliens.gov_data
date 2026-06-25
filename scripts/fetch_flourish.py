@@ -62,31 +62,33 @@ def sha256_text(s: str) -> str:
 
 def get_events(data: dict):
     events = data.get("events")
+
     if isinstance(events, list):
         return events
 
-    tables = data.get("tables", {})
-    if isinstance(tables, dict):
-        for key in ("events", "data"):
-            if isinstance(tables.get(key), list):
-                return tables[key]
+    if isinstance(events, dict):
+        for key in ("data", "rows", "values"):
+            if isinstance(events.get(key), list):
+                return events[key]
 
-    raise ValueError("Could not find events table")
+    raise ValueError(f"Could not find events table. Top-level keys: {list(data.keys())}")
 
 
 def clean_events(events):
     cleaned = []
 
     for row in events:
+        metadata = row.get("metadata") or []
+
         cleaned.append({
-            "neighborhood": row.get("Neighborhood") or row.get("neighborhood"),
-            "latitude": row.get("Latitude") or row.get("latitude"),
-            "longitude": row.get("Longitude") or row.get("longitude"),
-            "total_arrests": row.get("Total Arrests") or row.get("total_arrests"),
-            "dates_of_arrest": row.get("Dates of Arrest") or row.get("dates_of_arrest"),
-            "criminal_charges": row.get("Criminal Charges") or row.get("criminal_charges"),
-            "countries_of_origin": row.get("Countries of Origin") or row.get("countries_of_origin"),
-            "gang_affiliation": row.get("Gang Affiliation") or row.get("gang_affiliation"),
+            "neighborhood": row.get("name"),
+            "latitude": row.get("lat"),
+            "longitude": row.get("lon"),
+            "total_arrests": metadata[0] if len(metadata) > 0 else row.get("scale"),
+            "dates_of_arrest": metadata[1] if len(metadata) > 1 else None,
+            "criminal_charges": metadata[2] if len(metadata) > 2 else None,
+            "countries_of_origin": metadata[3] if len(metadata) > 3 else None,
+            "gang_affiliation": metadata[4] if len(metadata) > 4 else None,
         })
 
     return cleaned
