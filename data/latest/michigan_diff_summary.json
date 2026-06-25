@@ -1,0 +1,4308 @@
+{
+  "michigan_added": [
+    {
+      "neighborhood": "Detroit, MI",
+      "latitude": 42.3315509,
+      "longitude": -83.0466403,
+      "total_arrests": 1335,
+      "dates_of_arrest": "01/21/25 - 05/28/26",
+      "criminal_charges": "Assault, Congress, Dangerous Drugs, Etc., Flight / Escape, Forgery, Fraudulent Activities, General Crimes, Homicide, Immigration, Invasion of Privacy, Larceny, Legislature, Liquor, Obstructing Judiciary, Obstructing the Police, Public Peace, Robbery, Sex Offenses (Not Involving Assault or Commercialized Sex), Sexual Assault, Stolen Property, Stolen Vehicle, Traffic Offenses, Weapon Offenses",
+      "countries_of_origin": "AFGHANISTAN, ALBANIA, ALGERIA, ARGENTINA, BAHAMAS, BANGLADESH, BELIZE, BENIN, BRAZIL, CAMBODIA, CAMEROON, CHINA, COLOMBIA, CONGO, COSTA RICA, CUBA, DOMINICAN REPUBLIC, ECUADOR, EGYPT, EL SALVADOR, ETHIOPIA, GAMBIA, GHANA, GUATEMALA, GUINEA, HAITI, HONDURAS, INDIA, IRAN, IRAQ, ISRAEL, IVORY COAST, JAMAICA, JORDAN, LAOS, LEBANON, MAURITANIA, MEXICO, MOROCCO, NEPAL, NICARAGUA, NIGERIA, PAKISTAN, PEOPLES REPUBLIC OF, PERU, PHILIPPINES, ROMANIA, RUSSIA, SENEGAL, SPAIN, SYRIA, THAILAND, TURKIYE, UZBEKISTAN, VENEZUELA, VIETNAM, YEMEN",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Grand Rapids, MI",
+      "latitude": 42.9632425,
+      "longitude": -85.6678639,
+      "total_arrests": 268,
+      "dates_of_arrest": "01/26/25 - 05/27/26",
+      "criminal_charges": "Arson, Assault, Commercialized Sexual Offenses, Damage Property, Dangerous Drugs, Embezzlement, Fraudulent Activities, General Crimes, Homicide, Immigration, Invasion of Privacy, Larceny, Liquor, Obstructing Judiciary, Congress, Legislature, Etc., Obstructing the Police, Public Peace, Sex Offenses (Not Involving Assault or Commercialized Sex), Sexual Assault, Stolen Property, Traffic Offenses, Weapon Offenses",
+      "countries_of_origin": "AFGHANISTAN, BRAZIL, BURUNDI, CANADA, CHINA, PEOPLES REPUBLIC OF, COLOMBIA, CUBA, DEM REP OF THE CONGO, DOMINICAN REPUBLIC, ECUADOR, EL SALVADOR, ERITREA, FRANCE, GUATEMALA, HAITI, HONDURAS, INDIA, INDONESIA, IRAN, IRAQ, LAOS, MAURITANIA, MEXICO, NICARAGUA, SUDAN, VENEZUELA, VIETNAM",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Pontiac, MI",
+      "latitude": 42.6389216,
+      "longitude": -83.2910468,
+      "total_arrests": 216,
+      "dates_of_arrest": "02/13/25 - 05/25/26",
+      "criminal_charges": "Assault, Dangerous Drugs, Forgery, Fraudulent Activities, General Crimes, Immigration, Larceny, Obstructing the Police, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, DOMINICAN REPUBLIC, EL SALVADOR, GUATEMALA, HONDURAS, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ypsilanti, MI",
+      "latitude": 42.241051,
+      "longitude": -83.61176462,
+      "total_arrests": 131,
+      "dates_of_arrest": "01/31/25 - 05/13/26",
+      "criminal_charges": "Assault, Dangerous Drugs, Fraudulent Activities, General Crimes, Immigration, Larceny, Obstructing the Police, Public Peace, Sexual Assault, Traffic Offenses",
+      "countries_of_origin": "BRAZIL, CHINA, PEOPLES REPUBLIC OF, COLOMBIA, CUBA, DOMINICAN REPUBLIC, EL SALVADOR, GUATEMALA, HONDURAS, IRAQ, JORDAN, MEXICO, NICARAGUA, UZBEKISTAN, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Southfield, MI",
+      "latitude": 42.4733689,
+      "longitude": -83.2218731,
+      "total_arrests": 69,
+      "dates_of_arrest": "02/11/25 - 05/22/26",
+      "criminal_charges": "Assault, Forgery, Fraudulent Activities, General Crimes, Immigration, Larceny, Sex Offenses (Not Involving Assault or Commercialized Sex), Traffic Offenses",
+      "countries_of_origin": "BAHAMAS, COSTA RICA, CUBA, ECUADOR, EL SALVADOR, GEORGIA, GUATEMALA, HONDURAS, ISRAEL, MEXICO, NICARAGUA, NIGERIA, SENEGAL, UZBEKISTAN, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Troy, MI",
+      "latitude": 42.6055893,
+      "longitude": -83.1499304,
+      "total_arrests": 65,
+      "dates_of_arrest": "01/26/25 - 05/20/26",
+      "criminal_charges": "Assault, Damage Property, Dangerous Drugs, Immigration, Larceny, Sex Offenses (Not Involving Assault or Commercialized Sex), Traffic Offenses",
+      "countries_of_origin": "CHILE, CHINA, PEOPLES REPUBLIC OF, COLOMBIA, CUBA, EGYPT, EL SALVADOR, GUATEMALA, HONDURAS, JAPAN, JORDAN, LIBERIA, MEXICO, NICARAGUA, SRI LANKA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Wyoming, MI",
+      "latitude": 42.9132581,
+      "longitude": -85.7057035,
+      "total_arrests": 55,
+      "dates_of_arrest": "01/30/25 - 05/26/26",
+      "criminal_charges": "Assault, Burglary, Dangerous Drugs, Fraudulent Activities, General Crimes, Homicide, Immigration, Larceny, Obstructing the Police, Traffic Offenses",
+      "countries_of_origin": "EL SALVADOR, GUATEMALA, HONDURAS, MEXICO",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Wixom, MI",
+      "latitude": 42.5246873,
+      "longitude": -83.5363637,
+      "total_arrests": 54,
+      "dates_of_arrest": "06/18/25 - 05/11/26",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF, COLOMBIA, GUATEMALA, HONDURAS, MAURITANIA, MEXICO, SENEGAL, TURKIYE, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Dearborn, MI",
+      "latitude": 42.3222599,
+      "longitude": -83.1763145,
+      "total_arrests": 53,
+      "dates_of_arrest": "02/02/25 - 05/14/26",
+      "criminal_charges": "Assault, Homicide, Obstructing the Police, Threat, Traffic Offenses",
+      "countries_of_origin": "CANADA, COLOMBIA, ECUADOR, GUATEMALA, HONDURAS, IRAN, JORDAN, LEBANON, MAURITANIA, MEXICO, NICARAGUA, SENEGAL, TURKIYE, VENEZUELA, YEMEN",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Clinton Township, MI",
+      "latitude": 42.0554875,
+      "longitude": -83.9478911,
+      "total_arrests": 50,
+      "dates_of_arrest": "04/01/25 - 04/29/26",
+      "criminal_charges": "Burglary, Fraudulent Activities, General Crimes, Obstructing Judiciary, Congress, Legislature, Etc., Robbery, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, EL SALVADOR, HONDURAS, LAOS, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Warren, MI",
+      "latitude": 42.4932575,
+      "longitude": -83.0062746,
+      "total_arrests": 42,
+      "dates_of_arrest": "04/04/25 - 05/17/26",
+      "criminal_charges": "Assault, Burglary, Fraudulent Activities, Immigration",
+      "countries_of_origin": "BANGLADESH, BRAZIL, COLOMBIA, ECUADOR, EL SALVADOR, GUATEMALA, HONDURAS, MAURITANIA, MEXICO, SENEGAL, VENEZUELA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lincoln Park, MI",
+      "latitude": 42.2505943,
+      "longitude": -83.1785361,
+      "total_arrests": 37,
+      "dates_of_arrest": "01/27/25 - 05/06/26",
+      "criminal_charges": "Assault, Dangerous Drugs, Fraudulent Activities, General Crimes, Larceny",
+      "countries_of_origin": "COLOMBIA, DOMINICAN REPUBLIC, GUATEMALA, HONDURAS, JORDAN, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Madison Heights, MI",
+      "latitude": 42.4858692,
+      "longitude": -83.1052028,
+      "total_arrests": 35,
+      "dates_of_arrest": "02/10/25 - 05/28/26",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "CHINA, EL SALVADOR, GUATEMALA, HONDURAS, MEXICO, NICARAGUA, PEOPLES REPUBLIC OF, VENEZUELA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ann Arbor, MI",
+      "latitude": 42.2813722,
+      "longitude": -83.7484616,
+      "total_arrests": 34,
+      "dates_of_arrest": "02/25/25 - 05/13/26",
+      "criminal_charges": "Assault, Flight / Escape, Immigration, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS, IRAN, JORDAN, MEXICO, NICARAGUA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Westland, MI",
+      "latitude": 42.3238056,
+      "longitude": -83.4005321,
+      "total_arrests": 28,
+      "dates_of_arrest": "01/28/25 - 05/13/26",
+      "criminal_charges": "Assault, Dangerous Drugs, Fraudulent Activities, Traffic Offenses",
+      "countries_of_origin": "BENIN, COLOMBIA, GHANA, HONDURAS, INDIA, LEBANON, MEXICO, NICARAGUA, NIGERIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Rochester Hills, MI",
+      "latitude": 42.6583661,
+      "longitude": -83.1499322,
+      "total_arrests": 28,
+      "dates_of_arrest": "01/28/25 - 05/28/26",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, HONDURAS, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Taylor, MI",
+      "latitude": 42.240872,
+      "longitude": -83.26965091,
+      "total_arrests": 25,
+      "dates_of_arrest": "02/28/25 - 05/20/26",
+      "criminal_charges": "Flight / Escape, General Crimes, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, CUBA, GUATEMALA, HONDURAS, INDONESIA, MAURITANIA, MEXICO, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Holland, MI",
+      "latitude": 42.7876022,
+      "longitude": -86.1090828,
+      "total_arrests": 24,
+      "dates_of_arrest": "01/27/25 - 05/13/26",
+      "criminal_charges": "Assault, Obstructing the Police, Sex Offenses (Not Involving Assault or Commercialized Sex), Sexual Assault, Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, HONDURAS, INDIA, LAOS, MEXICO, NICARAGUA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Sterling Heights, MI",
+      "latitude": 42.5803122,
+      "longitude": -83.0302033,
+      "total_arrests": 24,
+      "dates_of_arrest": "06/19/25 - 05/01/26",
+      "criminal_charges": "General Crimes, Larceny, Weapon Offenses",
+      "countries_of_origin": "BOLIVIA, EGYPT, HONDURAS, MEXICO, ROMANIA, SENEGAL, VENEZUELA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Livonia, MI",
+      "latitude": 42.36837,
+      "longitude": -83.3527097,
+      "total_arrests": 21,
+      "dates_of_arrest": "04/22/25 - 05/16/26",
+      "criminal_charges": "Assault, Immigration",
+      "countries_of_origin": "COLOMBIA, CUBA, HONDURAS, INDIA, LEBANON, MEXICO, SENEGAL, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Novi, MI",
+      "latitude": 42.48059,
+      "longitude": -83.4754913,
+      "total_arrests": 20,
+      "dates_of_arrest": "03/10/25 - 05/11/26",
+      "criminal_charges": "Assault, Immigration, Traffic Offenses",
+      "countries_of_origin": "ALBANIA, CUBA, GUATEMALA, HONDURAS, MAURITANIA, MEXICO, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Waterford, MI",
+      "latitude": 42.7022527,
+      "longitude": -83.402718,
+      "total_arrests": 20,
+      "dates_of_arrest": "01/22/25 - 04/30/26",
+      "criminal_charges": "General Crimes, Traffic Offenses",
+      "countries_of_origin": "CHILE, HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Flint, MI",
+      "latitude": 43.0161693,
+      "longitude": -83.6900211,
+      "total_arrests": 19,
+      "dates_of_arrest": "01/27/25 - 05/24/26",
+      "criminal_charges": "Assault, Dangerous Drugs, Larceny, Traffic Offenses, Weapon Offenses",
+      "countries_of_origin": "CUBA, EL SALVADOR, GUATEMALA, HONDURAS, IVORY COAST, MEXICO, PERU, VENEZUELA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Dearborn Heights, MI",
+      "latitude": 42.3369816,
+      "longitude": -83.2732627,
+      "total_arrests": 18,
+      "dates_of_arrest": "04/25/25 - 05/02/26",
+      "criminal_charges": "Assault, Larceny, Sex Offenses (Not Involving Assault or Commercialized Sex), Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, HONDURAS, IRAQ, LEBANON, MAURITANIA, MEXICO, ROMANIA, SAUDI ARABIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Plymouth, MI",
+      "latitude": 42.3712,
+      "longitude": -83.4675021,
+      "total_arrests": 18,
+      "dates_of_arrest": "01/28/25 - 04/08/26",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF, HONDURAS, MAURITANIA, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lansing, MI",
+      "latitude": 42.7338254,
+      "longitude": -84.5546295,
+      "total_arrests": 16,
+      "dates_of_arrest": "01/26/25 - 03/30/26",
+      "criminal_charges": "Assault, Burglary, Immigration, Sex Offenses (Not Involving Assault or Commercialized Sex), Sexual Assault, Traffic Offenses",
+      "countries_of_origin": "BHUTAN, CHINA, PEOPLES REPUBLIC OF, CUBA, EL SALVADOR, GUATEMALA, HAITI, INDIA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Utica, MI",
+      "latitude": 42.6261446,
+      "longitude": -83.0335384,
+      "total_arrests": 16,
+      "dates_of_arrest": "05/05/25 - 05/13/26",
+      "criminal_charges": "Assault, Dangerous Drugs",
+      "countries_of_origin": "ALBANIA, COLOMBIA, GUATEMALA, HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Southgate, MI",
+      "latitude": 42.2037103,
+      "longitude": -83.2067556,
+      "total_arrests": 16,
+      "dates_of_arrest": "03/17/25 - 05/24/26",
+      "criminal_charges": "Larceny, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, GUATEMALA, MEXICO, PAKISTAN, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Rochester, MI",
+      "latitude": 42.680588,
+      "longitude": -83.1338214,
+      "total_arrests": 15,
+      "dates_of_arrest": "02/03/25 - 03/23/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "HONDURAS, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Belleville, MI",
+      "latitude": 42.2048414,
+      "longitude": -83.4852106,
+      "total_arrests": 15,
+      "dates_of_arrest": "03/21/25 - 05/19/26",
+      "criminal_charges": "Assault, Immigration, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, GUATEMALA, HONDURAS, MEXICO, ROMANIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Highland Park, MI",
+      "latitude": 42.4055981,
+      "longitude": -83.0965829,
+      "total_arrests": 15,
+      "dates_of_arrest": "08/18/25 - 05/12/26",
+      "criminal_charges": "Fraudulent Activities",
+      "countries_of_origin": "COLOMBIA, HONDURAS, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Howell, MI",
+      "latitude": 42.6072552,
+      "longitude": -83.9293952,
+      "total_arrests": 15,
+      "dates_of_arrest": "04/02/25 - 05/26/26",
+      "criminal_charges": "Obstructing Judiciary, Congress, Legislature, Etc., Sexual Assault, Traffic Offenses, Weapon Offenses",
+      "countries_of_origin": "BRAZIL, COLOMBIA, INDIA, INDONESIA, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Gaylord, MI",
+      "latitude": 45.027513,
+      "longitude": -84.674752,
+      "total_arrests": 15,
+      "dates_of_arrest": "03/14/25 - 09/10/25",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "BAHAMAS, GUATEMALA, HONDURAS, JAMAICA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Wayland, MI",
+      "latitude": 42.6745321,
+      "longitude": -85.6457663,
+      "total_arrests": 12,
+      "dates_of_arrest": "10/02/25 - 03/03/26",
+      "criminal_charges": "Assault, Fraudulent Activities, Immigration",
+      "countries_of_origin": "CUBA, GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Commerce Township, MI",
+      "latitude": 42.5278865,
+      "longitude": -83.4441816,
+      "total_arrests": 12,
+      "dates_of_arrest": "05/24/25 - 03/26/26",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, GUATEMALA, HONDURAS, MAURITANIA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Trenton, MI",
+      "latitude": 42.1406552,
+      "longitude": -83.1800544,
+      "total_arrests": 12,
+      "dates_of_arrest": "03/05/25 - 05/18/26",
+      "criminal_charges": "",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF, HONDURAS, INDONESIA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Auburn Hills, MI",
+      "latitude": 42.6875323,
+      "longitude": -83.2341028,
+      "total_arrests": 12,
+      "dates_of_arrest": "07/03/25 - 04/05/26",
+      "criminal_charges": "General Crimes, Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "West Bloomfield, MI",
+      "latitude": 42.5676161,
+      "longitude": -83.3592564,
+      "total_arrests": 12,
+      "dates_of_arrest": "03/05/25 - 05/27/26",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA, ISRAEL, MEXICO, UZBEKISTAN, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hazel Park, MI",
+      "latitude": 42.4620142,
+      "longitude": -83.1035688,
+      "total_arrests": 11,
+      "dates_of_arrest": "04/17/25 - 05/10/26",
+      "criminal_charges": "Dangerous Drugs, Liquor",
+      "countries_of_origin": "COLOMBIA, GUATEMALA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Shelby Township, MI",
+      "latitude": 43.5974492,
+      "longitude": -86.3379509,
+      "total_arrests": 11,
+      "dates_of_arrest": "06/09/25 - 05/22/26",
+      "criminal_charges": "Traffic Offenses, Weapon Offenses",
+      "countries_of_origin": "MEXICO, PERU, TUNISIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Oak Park, MI",
+      "latitude": 42.4595317,
+      "longitude": -83.1821445,
+      "total_arrests": 11,
+      "dates_of_arrest": "03/08/25 - 12/24/25",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, LEBANON, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Redford, MI",
+      "latitude": 42.3833698,
+      "longitude": -83.2965971,
+      "total_arrests": 11,
+      "dates_of_arrest": "06/30/25 - 05/19/26",
+      "criminal_charges": "Assault, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, CUBA, MEXICO, SENEGAL, SIERRA LEONE, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Clinton Twp, MI",
+      "latitude": 42.0554875,
+      "longitude": -83.9478911,
+      "total_arrests": 10,
+      "dates_of_arrest": "02/03/25 - 03/12/26",
+      "criminal_charges": "Larceny",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Canton, MI",
+      "latitude": 32.612602,
+      "longitude": -90.0367512,
+      "total_arrests": 10,
+      "dates_of_arrest": "03/18/25 - 04/28/26",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "GHANA, JORDAN, MAURITANIA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Inkster, MI",
+      "latitude": 42.2942045,
+      "longitude": -83.3099303,
+      "total_arrests": 10,
+      "dates_of_arrest": "04/01/25 - 03/21/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "HONDURAS, IRAQ, MAURITANIA, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Romulus, MI",
+      "latitude": 42.2222614,
+      "longitude": -83.3965995,
+      "total_arrests": 10,
+      "dates_of_arrest": "04/09/25 - 05/06/26",
+      "criminal_charges": "Assault, Forgery, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, CUBA, ETHIOPIA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "White Lake, MI",
+      "latitude": 43.3886586,
+      "longitude": -86.3666105,
+      "total_arrests": 9,
+      "dates_of_arrest": "12/31/25 - 02/26/26",
+      "criminal_charges": "Commercialized Sexual Offenses, Immigration",
+      "countries_of_origin": "COLOMBIA, HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Roseville, MI",
+      "latitude": 42.4972583,
+      "longitude": -82.9371409,
+      "total_arrests": 9,
+      "dates_of_arrest": "07/30/25 - 05/04/26",
+      "criminal_charges": "",
+      "countries_of_origin": "BRAZIL, COLOMBIA, DOMINICAN REPUBLIC, EL SALVADOR, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Farmington Hills, MI",
+      "latitude": 42.4853125,
+      "longitude": -83.3771553,
+      "total_arrests": 9,
+      "dates_of_arrest": "04/04/25 - 05/15/26",
+      "criminal_charges": "",
+      "countries_of_origin": "ALBANIA, GUATEMALA, HONDURAS, INDIA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hamtramck, MI",
+      "latitude": 42.3928151,
+      "longitude": -83.04964384,
+      "total_arrests": 8,
+      "dates_of_arrest": "08/08/25 - 04/28/26",
+      "criminal_charges": "General Crimes, Traffic Offenses",
+      "countries_of_origin": "BANGLADESH, COLOMBIA, HONDURAS, MAURITANIA, RUSSIA, SENEGAL, UKRAINE",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Stephenson, MI",
+      "latitude": 45.415251,
+      "longitude": -87.607616,
+      "total_arrests": 8,
+      "dates_of_arrest": "07/24/25 - 07/24/25",
+      "criminal_charges": "Assault, Fraudulent Activities",
+      "countries_of_origin": "HONDURAS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Monroe, MI",
+      "latitude": 41.9153358,
+      "longitude": -83.5135665,
+      "total_arrests": 8,
+      "dates_of_arrest": "01/21/25 - 04/11/26",
+      "criminal_charges": "Assault, Traffic Offenses",
+      "countries_of_origin": "CUBA, MEXICO, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Adrian, MI",
+      "latitude": 41.8975152,
+      "longitude": -84.0373054,
+      "total_arrests": 7,
+      "dates_of_arrest": "02/05/25 - 07/08/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "HONDURAS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Farmington, MI",
+      "latitude": 42.4644795,
+      "longitude": -83.3763219,
+      "total_arrests": 7,
+      "dates_of_arrest": "05/16/25 - 02/18/26",
+      "criminal_charges": "Commercialized Sexual Offenses",
+      "countries_of_origin": "ALBANIA, GUATEMALA, HONDURAS, KOSOVO, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Muskegon, MI",
+      "latitude": 43.2341813,
+      "longitude": -86.2483921,
+      "total_arrests": 7,
+      "dates_of_arrest": "04/01/25 - 03/13/26",
+      "criminal_charges": "Assault, Burglary, Fraudulent Activities, Public Peace, Sex Offenses (Not Involving Assault or Commercialized Sex)",
+      "countries_of_origin": "GUATEMALA, LAOS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Byron Center, MI",
+      "latitude": 42.8143115,
+      "longitude": -85.7279047,
+      "total_arrests": 7,
+      "dates_of_arrest": "07/09/25 - 05/27/26",
+      "criminal_charges": "Assault, Sexual Assault",
+      "countries_of_origin": "GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hudsonville, MI",
+      "latitude": 42.870889,
+      "longitude": -85.865235,
+      "total_arrests": 7,
+      "dates_of_arrest": "09/30/25 - 03/17/26",
+      "criminal_charges": "Assault, Family Offenses",
+      "countries_of_origin": "GUATEMALA, LAOS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Clarkston, MI",
+      "latitude": 42.735863,
+      "longitude": -83.4188304,
+      "total_arrests": 7,
+      "dates_of_arrest": "02/04/25 - 02/28/26",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Allen Park, MI",
+      "latitude": 42.2595071,
+      "longitude": -83.2107671,
+      "total_arrests": 7,
+      "dates_of_arrest": "06/21/25 - 05/19/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, HONDURAS, MAURITANIA, MEXICO, MOLDOVA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ecorse, MI",
+      "latitude": 42.2444833,
+      "longitude": -83.145757,
+      "total_arrests": 6,
+      "dates_of_arrest": "08/18/25 - 05/03/26",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Comstock Park, MI",
+      "latitude": 43.0436436,
+      "longitude": -85.6794889,
+      "total_arrests": 6,
+      "dates_of_arrest": "06/01/25 - 04/30/26",
+      "criminal_charges": "Immigration, Public Peace, Traffic Offenses",
+      "countries_of_origin": "ECUADOR, GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Fraser, MI",
+      "latitude": 42.539202,
+      "longitude": -82.9493652,
+      "total_arrests": 6,
+      "dates_of_arrest": "03/04/25 - 01/22/26",
+      "criminal_charges": "",
+      "countries_of_origin": "BANGLADESH, COLOMBIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Royal Oak, MI",
+      "latitude": 42.4894801,
+      "longitude": -83.1446485,
+      "total_arrests": 6,
+      "dates_of_arrest": "09/17/25 - 04/29/26",
+      "criminal_charges": "Obstructing the Police, Traffic Offenses",
+      "countries_of_origin": "EL SALVADOR, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Fenton, MI",
+      "latitude": 42.7978061,
+      "longitude": -83.7049498,
+      "total_arrests": 6,
+      "dates_of_arrest": "01/30/26 - 05/03/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Kalamazoo, MI",
+      "latitude": 42.291707,
+      "longitude": -85.5872286,
+      "total_arrests": 5,
+      "dates_of_arrest": "03/24/25 - 10/23/25",
+      "criminal_charges": "Dangerous Drugs, Immigration, Sexual Assault",
+      "countries_of_origin": "COLOMBIA, GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Walled Lake, MI",
+      "latitude": 42.537811,
+      "longitude": -83.4810481,
+      "total_arrests": 5,
+      "dates_of_arrest": "05/16/25 - 01/13/26",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "ITALY, MEXICO, RUSSIA, TURKIYE",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Eastpointe, MI",
+      "latitude": 42.4683698,
+      "longitude": -82.9554746,
+      "total_arrests": 5,
+      "dates_of_arrest": "08/26/25 - 05/26/26",
+      "criminal_charges": "Fraudulent Activities",
+      "countries_of_origin": "ALBANIA, GUATEMALA, SENEGAL, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Zeeland, MI",
+      "latitude": 42.8123375,
+      "longitude": -86.0165267,
+      "total_arrests": 5,
+      "dates_of_arrest": "07/09/25 - 04/28/26",
+      "criminal_charges": "Dangerous Drugs, Sexual Assault, Traffic Offenses",
+      "countries_of_origin": "EL SALVADOR, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Shelbyville, MI",
+      "latitude": 42.5941998,
+      "longitude": -85.6372414,
+      "total_arrests": 5,
+      "dates_of_arrest": "12/26/25 - 12/26/25",
+      "criminal_charges": "",
+      "countries_of_origin": "EL SALVADOR, GUATEMALA, HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Milford, MI",
+      "latitude": 42.5917805,
+      "longitude": -83.6000696,
+      "total_arrests": 5,
+      "dates_of_arrest": "02/11/25 - 01/08/26",
+      "criminal_charges": "Larceny",
+      "countries_of_origin": "MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Petoskey, MI",
+      "latitude": 45.373343,
+      "longitude": -84.95533,
+      "total_arrests": 5,
+      "dates_of_arrest": "02/05/25 - 07/16/25",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, EL SALVADOR, JAMAICA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Dorr, MI",
+      "latitude": 42.725308,
+      "longitude": -85.7225259,
+      "total_arrests": 5,
+      "dates_of_arrest": "03/17/26 - 03/17/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Croswell, MI",
+      "latitude": 43.275581,
+      "longitude": -82.621038,
+      "total_arrests": 5,
+      "dates_of_arrest": "06/05/25 - 06/05/25",
+      "criminal_charges": "",
+      "countries_of_origin": "CONGO, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Traverse City, MI",
+      "latitude": 44.7606481,
+      "longitude": -85.6165976,
+      "total_arrests": 5,
+      "dates_of_arrest": "07/04/25 - 07/16/25",
+      "criminal_charges": "Larceny",
+      "countries_of_origin": "HONDURAS, NICARAGUA, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Chesterfield, MI",
+      "latitude": 42.4331859,
+      "longitude": -83.3037293,
+      "total_arrests": 5,
+      "dates_of_arrest": "03/28/25 - 03/30/26",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "COLOMBIA, ECUADOR, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Caledonia, MI",
+      "latitude": 42.7891193,
+      "longitude": -85.5163391,
+      "total_arrests": 4,
+      "dates_of_arrest": "06/23/25 - 02/20/26",
+      "criminal_charges": "Assault, Traffic Offenses",
+      "countries_of_origin": "BHUTAN, HONDURAS, MEXICO, SPAIN",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grand Haven, MI",
+      "latitude": 43.0630734,
+      "longitude": -86.2283864,
+      "total_arrests": 4,
+      "dates_of_arrest": "08/06/25 - 05/17/26",
+      "criminal_charges": "Assault, Public Peace",
+      "countries_of_origin": "CANADA, GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Brownstown Twp, MI",
+      "latitude": 42.1529228,
+      "longitude": -83.2753247,
+      "total_arrests": 4,
+      "dates_of_arrest": "07/24/25 - 05/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "COLOMBIA, HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saint Clair Shores, MI",
+      "latitude": 42.4969652,
+      "longitude": -82.8890965,
+      "total_arrests": 4,
+      "dates_of_arrest": "06/18/25 - 04/07/26",
+      "criminal_charges": "Dangerous Drugs, Immigration, Traffic Offenses",
+      "countries_of_origin": "CANADA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lapeer, MI",
+      "latitude": 43.0904764,
+      "longitude": -83.2333705,
+      "total_arrests": 4,
+      "dates_of_arrest": "02/01/26 - 04/27/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Woodhaven, MI",
+      "latitude": 42.1370519,
+      "longitude": -83.2451066,
+      "total_arrests": 4,
+      "dates_of_arrest": "09/09/25 - 04/26/26",
+      "criminal_charges": "",
+      "countries_of_origin": "INDONESIA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Wayne, MI",
+      "latitude": 42.2682408,
+      "longitude": -83.2844172,
+      "total_arrests": 4,
+      "dates_of_arrest": "01/26/25 - 03/10/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "INDIA, MAURITANIA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "New Hudson, MI",
+      "latitude": 42.511726,
+      "longitude": -83.6156648,
+      "total_arrests": 4,
+      "dates_of_arrest": "04/23/25 - 12/17/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Melvindale, MI",
+      "latitude": 42.2825383,
+      "longitude": -83.175203,
+      "total_arrests": 4,
+      "dates_of_arrest": "07/18/25 - 04/21/26",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "DOMINICAN REPUBLIC, HONDURAS, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Grand Blanc, MI",
+      "latitude": 42.9275277,
+      "longitude": -83.6299518,
+      "total_arrests": 4,
+      "dates_of_arrest": "09/03/25 - 04/21/26",
+      "criminal_charges": "Family Offenses",
+      "countries_of_origin": "CUBA, EL SALVADOR, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grandville, MI",
+      "latitude": 42.909598,
+      "longitude": -85.7630956,
+      "total_arrests": 4,
+      "dates_of_arrest": "11/14/25 - 03/11/26",
+      "criminal_charges": "Immigration, Public Peace, Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lake Orion, MI",
+      "latitude": 42.7844752,
+      "longitude": -83.2396612,
+      "total_arrests": 3,
+      "dates_of_arrest": "11/19/25 - 11/19/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mount Clemens, MI",
+      "latitude": 42.5972563,
+      "longitude": -82.8779754,
+      "total_arrests": 3,
+      "dates_of_arrest": "04/09/25 - 02/13/26",
+      "criminal_charges": "Burglary, Traffic Offenses",
+      "countries_of_origin": "ROMANIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lenox, MI",
+      "latitude": 42.7643581,
+      "longitude": -82.7966717,
+      "total_arrests": 3,
+      "dates_of_arrest": "06/17/25 - 06/17/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Brownstown, MI",
+      "latitude": 42.1529228,
+      "longitude": -83.2753247,
+      "total_arrests": 3,
+      "dates_of_arrest": "01/31/26 - 05/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Shelby Twp, MI",
+      "latitude": 43.5974492,
+      "longitude": -86.3379509,
+      "total_arrests": 3,
+      "dates_of_arrest": "02/07/25 - 05/18/26",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Riverview, MI",
+      "latitude": 42.1742073,
+      "longitude": -83.1793697,
+      "total_arrests": 3,
+      "dates_of_arrest": "10/30/25 - 02/13/26",
+      "criminal_charges": "",
+      "countries_of_origin": "DOMINICAN REPUBLIC, MAURITANIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Deckerville, MI",
+      "latitude": 43.526686,
+      "longitude": -82.735211,
+      "total_arrests": 3,
+      "dates_of_arrest": "04/18/26 - 04/20/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Roscommon, MI",
+      "latitude": 44.3326932,
+      "longitude": -84.6165164,
+      "total_arrests": 3,
+      "dates_of_arrest": "09/26/25 - 09/30/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Rockwood, MI",
+      "latitude": 42.0708765,
+      "longitude": -83.2465957,
+      "total_arrests": 3,
+      "dates_of_arrest": "05/18/26 - 05/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA, HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Sturgis, MI",
+      "latitude": 41.799217,
+      "longitude": -85.4191482,
+      "total_arrests": 3,
+      "dates_of_arrest": "09/04/25 - 09/05/25",
+      "criminal_charges": "Dangerous Drugs",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "East Lansing, MI",
+      "latitude": 42.7320307,
+      "longitude": -84.4721678,
+      "total_arrests": 3,
+      "dates_of_arrest": "07/14/25 - 02/09/26",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "IRAN, MEXICO, MONGOLIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "River Rouge, MI",
+      "latitude": 42.2729262,
+      "longitude": -83.1352891,
+      "total_arrests": 3,
+      "dates_of_arrest": "01/27/25 - 12/09/25",
+      "criminal_charges": "Assault, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, MAURITANIA, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Van Buren Township, MI",
+      "latitude": 42.2207982,
+      "longitude": -83.4841464,
+      "total_arrests": 3,
+      "dates_of_arrest": "10/21/25 - 04/01/26",
+      "criminal_charges": "",
+      "countries_of_origin": "CAMEROON, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Birmingham, MI",
+      "latitude": 42.5467012,
+      "longitude": -83.2113192,
+      "total_arrests": 3,
+      "dates_of_arrest": "11/23/25 - 02/02/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Center Line, MI",
+      "latitude": 42.4850362,
+      "longitude": -83.0277002,
+      "total_arrests": 3,
+      "dates_of_arrest": "03/27/25 - 04/29/26",
+      "criminal_charges": "",
+      "countries_of_origin": "KAZAKHSTAN, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Marne, MI",
+      "latitude": 43.0354509,
+      "longitude": -85.8277515,
+      "total_arrests": 3,
+      "dates_of_arrest": "01/15/26 - 05/27/26",
+      "criminal_charges": "",
+      "countries_of_origin": "EL SALVADOR, GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Washington, MI",
+      "latitude": 42.3021687,
+      "longitude": -83.257153,
+      "total_arrests": 3,
+      "dates_of_arrest": "05/18/26 - 05/18/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Independence Township, MI",
+      "latitude": 40.5012804,
+      "longitude": -94.6886062,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/23/25 - 04/23/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Commerce, MI",
+      "latitude": 42.5911431,
+      "longitude": -83.4907721,
+      "total_arrests": 2,
+      "dates_of_arrest": "12/05/25 - 05/05/26",
+      "criminal_charges": "",
+      "countries_of_origin": "COLOMBIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Harrison Township, MI",
+      "latitude": 42.5886235,
+      "longitude": -82.8217131,
+      "total_arrests": 2,
+      "dates_of_arrest": "02/24/26 - 02/24/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Brownstown Township, MI",
+      "latitude": 42.1529228,
+      "longitude": -83.2753247,
+      "total_arrests": 2,
+      "dates_of_arrest": "01/24/26 - 02/08/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Wolverine Lake, MI",
+      "latitude": 42.5566926,
+      "longitude": -83.4761395,
+      "total_arrests": 2,
+      "dates_of_arrest": "05/24/25 - 05/29/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, NIGERIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Waterford Township, MI",
+      "latitude": 42.6706391,
+      "longitude": -83.3896241,
+      "total_arrests": 2,
+      "dates_of_arrest": "09/18/25 - 02/04/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Harper Woods, MI",
+      "latitude": 42.4333367,
+      "longitude": -82.9238847,
+      "total_arrests": 2,
+      "dates_of_arrest": "11/11/25 - 04/17/26",
+      "criminal_charges": "",
+      "countries_of_origin": "SENEGAL",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Flat Rock, MI",
+      "latitude": 42.0964314,
+      "longitude": -83.2918744,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/26/26 - 04/26/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Northville, MI",
+      "latitude": 42.4310816,
+      "longitude": -83.4832339,
+      "total_arrests": 2,
+      "dates_of_arrest": "01/21/25 - 11/19/25",
+      "criminal_charges": "Fraudulent Activities",
+      "countries_of_origin": "ALBANIA, NIGERIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Commerce Twp, MI",
+      "latitude": 42.5911431,
+      "longitude": -83.4907721,
+      "total_arrests": 2,
+      "dates_of_arrest": "08/11/25 - 11/22/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Bangor, MI",
+      "latitude": 42.3125356,
+      "longitude": -86.1130794,
+      "total_arrests": 2,
+      "dates_of_arrest": "07/21/25 - 05/12/26",
+      "criminal_charges": "Dangerous Drugs",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF, GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Fennville, MI",
+      "latitude": 42.5941052,
+      "longitude": -86.104596,
+      "total_arrests": 2,
+      "dates_of_arrest": "05/09/25 - 02/14/26",
+      "criminal_charges": "Assault, Dangerous Drugs",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ionia, MI",
+      "latitude": 42.9469688,
+      "longitude": -85.0713945,
+      "total_arrests": 2,
+      "dates_of_arrest": "10/03/25 - 10/03/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Martin, MI",
+      "latitude": 42.5369783,
+      "longitude": -85.6416846,
+      "total_arrests": 2,
+      "dates_of_arrest": "10/21/25 - 10/21/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Allendale, MI",
+      "latitude": 42.9903205,
+      "longitude": -85.9529685,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/08/25 - 04/17/26",
+      "criminal_charges": "Dangerous Drugs, Immigration",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Kentwood, MI",
+      "latitude": 42.8694731,
+      "longitude": -85.6447492,
+      "total_arrests": 2,
+      "dates_of_arrest": "08/28/25 - 11/08/25",
+      "criminal_charges": "Larceny",
+      "countries_of_origin": "MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Norton Shores, MI",
+      "latitude": 43.1689044,
+      "longitude": -86.2639461,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/13/26 - 03/13/26",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Benton Harbor, MI",
+      "latitude": 42.1167065,
+      "longitude": -86.4541894,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/28/25 - 08/12/25",
+      "criminal_charges": "Sexual Assault, Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Gibraltar, MI",
+      "latitude": 42.0950426,
+      "longitude": -83.1896484,
+      "total_arrests": 2,
+      "dates_of_arrest": "05/14/26 - 05/17/26",
+      "criminal_charges": "",
+      "countries_of_origin": "COLOMBIA, GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Burton, MI",
+      "latitude": 42.9897333,
+      "longitude": -83.6335032,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/24/26 - 03/24/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Gobles, MI",
+      "latitude": 42.3608691,
+      "longitude": -85.8794636,
+      "total_arrests": 2,
+      "dates_of_arrest": "05/12/26 - 05/12/26",
+      "criminal_charges": "Liquor",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grant, MI",
+      "latitude": 43.336132,
+      "longitude": -85.810882,
+      "total_arrests": 2,
+      "dates_of_arrest": "06/16/25 - 08/12/25",
+      "criminal_charges": "Assault, Obstructing Judiciary, Congress, Legislature, Etc.",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Macomb Township, MI",
+      "latitude": 42.6726042,
+      "longitude": -82.9179487,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/28/26 - 05/22/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Nunica, MI",
+      "latitude": 43.0797424,
+      "longitude": -86.0672715,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/31/26 - 03/31/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Van Buren Twp., MI",
+      "latitude": 42.2207982,
+      "longitude": -83.4841464,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/14/25 - 05/19/26",
+      "criminal_charges": "Embezzlement",
+      "countries_of_origin": "ECUADOR, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Unkown, MI",
+      "latitude": 37.6888353,
+      "longitude": -89.8915683,
+      "total_arrests": 2,
+      "dates_of_arrest": "07/02/25 - 02/24/26",
+      "criminal_charges": "",
+      "countries_of_origin": "BRAZIL, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Battle Creek, MI",
+      "latitude": 42.3192548,
+      "longitude": -85.1824269,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/03/25 - 10/22/25",
+      "criminal_charges": "",
+      "countries_of_origin": "COLOMBIA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mt Pleasant, MI",
+      "latitude": 43.597646,
+      "longitude": -84.7668495,
+      "total_arrests": 2,
+      "dates_of_arrest": "02/04/25 - 02/04/25",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saline, MI",
+      "latitude": 42.1667072,
+      "longitude": -83.7816075,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/11/25 - 10/24/25",
+      "criminal_charges": "",
+      "countries_of_origin": "ECUADOR, JORDAN",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Coopersville, MI",
+      "latitude": 43.0639112,
+      "longitude": -85.9347667,
+      "total_arrests": 2,
+      "dates_of_arrest": "08/13/25 - 05/24/26",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mendon, MI",
+      "latitude": 42.0064378,
+      "longitude": -85.4499887,
+      "total_arrests": 2,
+      "dates_of_arrest": "07/03/25 - 07/03/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Charlotte, MI",
+      "latitude": 42.5637369,
+      "longitude": -84.8355792,
+      "total_arrests": 2,
+      "dates_of_arrest": "07/01/25 - 07/01/25",
+      "criminal_charges": "Assault, Traffic Offenses",
+      "countries_of_origin": "NICARAGUA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Detriot, MI",
+      "latitude": 42.3315509,
+      "longitude": -83.0466403,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/30/25 - 11/26/25",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Argyle Township, MI",
+      "latitude": 43.5508194,
+      "longitude": -82.9349198,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/20/26 - 04/20/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Paw Paw, MI",
+      "latitude": 42.2178171,
+      "longitude": -85.8911246,
+      "total_arrests": 1,
+      "dates_of_arrest": "12/10/25 - 12/10/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Canton Township, MI",
+      "latitude": 42.3076547,
+      "longitude": -83.4868961,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/20/26 - 05/20/26",
+      "criminal_charges": "",
+      "countries_of_origin": "RUSSIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Allegan, MI",
+      "latitude": 42.5867203,
+      "longitude": -85.8861492,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/13/26 - 02/13/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Redford Township, MI",
+      "latitude": 42.3945469,
+      "longitude": -83.2953927,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/07/26 - 05/07/26",
+      "criminal_charges": "",
+      "countries_of_origin": "SENEGAL",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Brighton, MI",
+      "latitude": 42.5316918,
+      "longitude": -83.7846458,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/18/26 - 01/18/26",
+      "criminal_charges": "",
+      "countries_of_origin": "COLOMBIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Highland, MI",
+      "latitude": 44.1455678,
+      "longitude": -85.2664329,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/21/26 - 05/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Miami, MI",
+      "latitude": 25.7741728,
+      "longitude": -80.19362,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/28/25 - 05/28/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mancelona, MI",
+      "latitude": 44.902229,
+      "longitude": -85.060885,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/14/25 - 05/14/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ferndale, MI",
+      "latitude": 42.4605917,
+      "longitude": -83.1346478,
+      "total_arrests": 1,
+      "dates_of_arrest": "10/28/25 - 10/28/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Brand Blanc, MI",
+      "latitude": 42.9275277,
+      "longitude": -83.6299518,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/21/26 - 04/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Harrisville, MI",
+      "latitude": 44.656402,
+      "longitude": -83.294689,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/17/25 - 06/17/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "St. Ignace, MI",
+      "latitude": 45.8686681,
+      "longitude": -84.7278146,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/04/26 - 05/04/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Tylor, MI",
+      "latitude": 42.240872,
+      "longitude": -83.26965091,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/25/25 - 07/25/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Kent City, MI",
+      "latitude": 43.220024,
+      "longitude": -85.751154,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/18/25 - 02/18/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hamilton, MI",
+      "latitude": 42.6772496,
+      "longitude": -86.0061464,
+      "total_arrests": 1,
+      "dates_of_arrest": "08/23/25 - 08/23/25",
+      "criminal_charges": "Larceny",
+      "countries_of_origin": "LAOS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hartford, MI",
+      "latitude": 42.2067051,
+      "longitude": -86.1666876,
+      "total_arrests": 1,
+      "dates_of_arrest": "11/02/25 - 11/02/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "W. Olive, MI",
+      "latitude": 42.921341,
+      "longitude": -86.1471466,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/25/25 - 07/25/25",
+      "criminal_charges": "Fraudulent Activities",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mason, MI",
+      "latitude": 43.9778831,
+      "longitude": -86.246291,
+      "total_arrests": 1,
+      "dates_of_arrest": "08/05/25 - 08/05/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Middleville, MI",
+      "latitude": 42.7130889,
+      "longitude": -85.4619599,
+      "total_arrests": 1,
+      "dates_of_arrest": "03/24/26 - 03/24/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "St. Paul, MI",
+      "latitude": 43.8771847,
+      "longitude": -85.7995379,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/08/25 - 06/08/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Niles, MI",
+      "latitude": 41.8297694,
+      "longitude": -86.2541768,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/11/25 - 02/11/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Saginaw, MI",
+      "latitude": 43.4200387,
+      "longitude": -83.9490365,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/11/25 - 05/11/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Washington Twp, MI",
+      "latitude": 43.3824292,
+      "longitude": -82.6884973,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/18/26 - 05/18/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Glendale, MI",
+      "latitude": 42.3028149,
+      "longitude": -85.9564087,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/18/25 - 06/18/25",
+      "criminal_charges": "General Crimes",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Genesee, MI",
+      "latitude": 43.0220032,
+      "longitude": -83.7274305,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/22/26 - 05/22/26",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Fruitport, MI",
+      "latitude": 43.13067,
+      "longitude": -86.154682,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/05/26 - 05/05/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Charlevoix, MI",
+      "latitude": 45.202075,
+      "longitude": -84.9676387,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/01/25 - 04/01/25",
+      "criminal_charges": "Burglary",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Sault Ste Marie, MI",
+      "latitude": 46.4976734,
+      "longitude": -84.3476583,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/22/26 - 04/22/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mt. Clemens, MI",
+      "latitude": 42.5972563,
+      "longitude": -82.8779754,
+      "total_arrests": 1,
+      "dates_of_arrest": "10/08/25 - 10/08/25",
+      "criminal_charges": "Weapon Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Berkley, MI",
+      "latitude": 42.5030909,
+      "longitude": -83.1835389,
+      "total_arrests": 1,
+      "dates_of_arrest": "12/12/25 - 12/12/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lenox Township, MI",
+      "latitude": 42.7643581,
+      "longitude": -82.7966717,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/17/25 - 06/17/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Bloomfield, MI",
+      "latitude": 42.5378124,
+      "longitude": -83.2329863,
+      "total_arrests": 1,
+      "dates_of_arrest": "08/06/25 - 08/06/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Aubrun Hills, MI",
+      "latitude": 42.6875323,
+      "longitude": -83.2341028,
+      "total_arrests": 1,
+      "dates_of_arrest": "03/22/26 - 03/22/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Elise, MI",
+      "latitude": 42.636154,
+      "longitude": -85.2241978,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/29/25 - 01/29/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Franklin, MI",
+      "latitude": 42.5222567,
+      "longitude": -83.3060432,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/03/25 - 06/03/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Midland, MI",
+      "latitude": 43.6155825,
+      "longitude": -84.2472117,
+      "total_arrests": 1,
+      "dates_of_arrest": "11/10/25 - 11/10/25",
+      "criminal_charges": "Burglary",
+      "countries_of_origin": "CUBA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Centerville, MI",
+      "latitude": 44.9079492,
+      "longitude": -85.7629918,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/16/25 - 06/16/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "West Olive, MI",
+      "latitude": 42.921341,
+      "longitude": -86.147147,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/07/26 - 01/07/26",
+      "criminal_charges": "Sexual Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ypsialnti, MI",
+      "latitude": 42.241051,
+      "longitude": -83.61176462,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/06/25 - 07/06/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Washington Township, MI",
+      "latitude": 43.3824292,
+      "longitude": -82.6884973,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/18/26 - 05/18/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Sand Lake, MI",
+      "latitude": 43.29238,
+      "longitude": -85.518073,
+      "total_arrests": 1,
+      "dates_of_arrest": "08/07/25 - 08/07/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Pullman, MI",
+      "latitude": 42.4836419,
+      "longitude": -86.0914189,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/01/25 - 05/01/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Portage, MI",
+      "latitude": 42.2011538,
+      "longitude": -85.5800022,
+      "total_arrests": 1,
+      "dates_of_arrest": "03/12/25 - 03/12/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Casco, MI",
+      "latitude": 42.7525317,
+      "longitude": -82.6715845,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/17/25 - 06/17/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saint Helen, MI",
+      "latitude": 44.3636299,
+      "longitude": -84.4102912,
+      "total_arrests": 1,
+      "dates_of_arrest": "09/26/25 - 09/26/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Milan, MI",
+      "latitude": 42.0848616,
+      "longitude": -83.6830279,
+      "total_arrests": 1,
+      "dates_of_arrest": "11/06/25 - 11/06/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grosse Ile Twp, MI",
+      "latitude": 42.1287503,
+      "longitude": -83.1586016,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/04/26 - 05/04/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grand Rapids Mi., MI",
+      "latitude": 42.9632425,
+      "longitude": -85.6678639,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/26/26 - 01/26/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ypsilanti Twp, MI",
+      "latitude": 42.2033048,
+      "longitude": -83.608886,
+      "total_arrests": 1,
+      "dates_of_arrest": "08/13/25 - 08/13/25",
+      "criminal_charges": "",
+      "countries_of_origin": "NICARAGUA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hazel, MI",
+      "latitude": 46.7899333,
+      "longitude": -88.7179119,
+      "total_arrests": 1,
+      "dates_of_arrest": "12/08/25 - 12/08/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Davison, MI",
+      "latitude": 43.0346872,
+      "longitude": -83.5180155,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/05/26 - 02/05/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Highland Township, MI",
+      "latitude": 44.1202945,
+      "longitude": -85.2660912,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/21/26 - 05/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mount Pleasant, MI",
+      "latitude": 43.597646,
+      "longitude": -84.7668495,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/04/25 - 02/04/25",
+      "criminal_charges": "Liquor",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Comstock Parkgrm, MI",
+      "latitude": 43.0436436,
+      "longitude": -85.6794889,
+      "total_arrests": 1,
+      "dates_of_arrest": "11/24/25 - 11/24/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Bruce Township, MI",
+      "latitude": 42.8466256,
+      "longitude": -83.0415404,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/09/26 - 04/09/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lincoln, MI",
+      "latitude": 44.684735,
+      "longitude": -83.412194,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/26/26 - 05/26/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Sterling Hts, MI",
+      "latitude": 42.5803122,
+      "longitude": -83.0302033,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/09/25 - 06/09/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grand Blanc Township, MI",
+      "latitude": 42.916257,
+      "longitude": -83.6664999,
+      "total_arrests": 1,
+      "dates_of_arrest": "10/28/25 - 10/28/25",
+      "criminal_charges": "",
+      "countries_of_origin": "CUBA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Belmont, MI",
+      "latitude": 43.0755822,
+      "longitude": -85.6091987,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/28/26 - 05/28/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Clinton, MI",
+      "latitude": 42.9435238,
+      "longitude": -84.6125345,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/18/25 - 07/18/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mc Bain, MI",
+      "latitude": 44.1927277,
+      "longitude": -85.2108407,
+      "total_arrests": 1,
+      "dates_of_arrest": "09/29/25 - 09/29/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mundy Township, MI",
+      "latitude": 42.9144355,
+      "longitude": -83.7504102,
+      "total_arrests": 1,
+      "dates_of_arrest": "10/28/25 - 10/28/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Columbus, MI",
+      "latitude": 42.882252,
+      "longitude": -82.6624207,
+      "total_arrests": 1,
+      "dates_of_arrest": "12/19/25 - 12/19/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ip, MI",
+      "latitude": 44.0832281,
+      "longitude": -74.5688316,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/17/26 - 04/17/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Muskegon Heights, MI",
+      "latitude": 43.201126,
+      "longitude": -86.238946,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/14/26 - 05/14/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Port Huron, MI",
+      "latitude": 42.9760854,
+      "longitude": -82.4333742,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/26/25 - 06/26/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saint Joseph, MI",
+      "latitude": 41.9031963,
+      "longitude": -85.5356726,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/11/26 - 02/11/26",
+      "criminal_charges": "Sexual Assault",
+      "countries_of_origin": "VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "White Lake  Twp, MI",
+      "latitude": 42.6555688,
+      "longitude": -83.5007875,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/26/26 - 02/26/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hopkins, MI",
+      "latitude": 42.6236425,
+      "longitude": -85.7603024,
+      "total_arrests": 1,
+      "dates_of_arrest": "10/16/25 - 10/16/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Det, MI",
+      "latitude": 42.4112444,
+      "longitude": -83.0085306,
+      "total_arrests": 1,
+      "dates_of_arrest": "11/04/25 - 11/04/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Keego Harbor, MI",
+      "latitude": 42.6080884,
+      "longitude": -83.3438248,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/24/26 - 01/24/26",
+      "criminal_charges": "General Crimes",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Baldwin, MI",
+      "latitude": 43.901123,
+      "longitude": -85.851729,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/30/25 - 07/30/25",
+      "criminal_charges": "",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Orion Twp, MI",
+      "latitude": 42.7516513,
+      "longitude": -83.26423,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/20/25 - 06/20/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Beverly Hills, MI",
+      "latitude": 42.5226219,
+      "longitude": -83.241357,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/20/26 - 05/20/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Imlay City, MI",
+      "latitude": 43.0247496,
+      "longitude": -83.0777153,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/26/25 - 01/26/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grand Ledge, MI",
+      "latitude": 42.7524401,
+      "longitude": -84.7463572,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/03/25 - 06/03/25",
+      "criminal_charges": "",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saint Ignace, MI",
+      "latitude": 45.8686681,
+      "longitude": -84.7278146,
+      "total_arrests": 1,
+      "dates_of_arrest": "03/18/25 - 03/18/25",
+      "criminal_charges": "",
+      "countries_of_origin": "JAMAICA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saint Johns, MI",
+      "latitude": 43.000928,
+      "longitude": -84.5585098,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/15/25 - 07/15/25",
+      "criminal_charges": "Burglary",
+      "countries_of_origin": "THAILAND",
+      "gang_affiliation": ""
+    }
+  ],
+  "michigan_removed": [],
+  "michigan_changed": [],
+  "michigan_current_top_cities": [
+    {
+      "neighborhood": "Detroit, MI",
+      "latitude": 42.3315509,
+      "longitude": -83.0466403,
+      "total_arrests": 1335,
+      "dates_of_arrest": "01/21/25 - 05/28/26",
+      "criminal_charges": "Assault, Congress, Dangerous Drugs, Etc., Flight / Escape, Forgery, Fraudulent Activities, General Crimes, Homicide, Immigration, Invasion of Privacy, Larceny, Legislature, Liquor, Obstructing Judiciary, Obstructing the Police, Public Peace, Robbery, Sex Offenses (Not Involving Assault or Commercialized Sex), Sexual Assault, Stolen Property, Stolen Vehicle, Traffic Offenses, Weapon Offenses",
+      "countries_of_origin": "AFGHANISTAN, ALBANIA, ALGERIA, ARGENTINA, BAHAMAS, BANGLADESH, BELIZE, BENIN, BRAZIL, CAMBODIA, CAMEROON, CHINA, COLOMBIA, CONGO, COSTA RICA, CUBA, DOMINICAN REPUBLIC, ECUADOR, EGYPT, EL SALVADOR, ETHIOPIA, GAMBIA, GHANA, GUATEMALA, GUINEA, HAITI, HONDURAS, INDIA, IRAN, IRAQ, ISRAEL, IVORY COAST, JAMAICA, JORDAN, LAOS, LEBANON, MAURITANIA, MEXICO, MOROCCO, NEPAL, NICARAGUA, NIGERIA, PAKISTAN, PEOPLES REPUBLIC OF, PERU, PHILIPPINES, ROMANIA, RUSSIA, SENEGAL, SPAIN, SYRIA, THAILAND, TURKIYE, UZBEKISTAN, VENEZUELA, VIETNAM, YEMEN",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Grand Rapids, MI",
+      "latitude": 42.9632425,
+      "longitude": -85.6678639,
+      "total_arrests": 268,
+      "dates_of_arrest": "01/26/25 - 05/27/26",
+      "criminal_charges": "Arson, Assault, Commercialized Sexual Offenses, Damage Property, Dangerous Drugs, Embezzlement, Fraudulent Activities, General Crimes, Homicide, Immigration, Invasion of Privacy, Larceny, Liquor, Obstructing Judiciary, Congress, Legislature, Etc., Obstructing the Police, Public Peace, Sex Offenses (Not Involving Assault or Commercialized Sex), Sexual Assault, Stolen Property, Traffic Offenses, Weapon Offenses",
+      "countries_of_origin": "AFGHANISTAN, BRAZIL, BURUNDI, CANADA, CHINA, PEOPLES REPUBLIC OF, COLOMBIA, CUBA, DEM REP OF THE CONGO, DOMINICAN REPUBLIC, ECUADOR, EL SALVADOR, ERITREA, FRANCE, GUATEMALA, HAITI, HONDURAS, INDIA, INDONESIA, IRAN, IRAQ, LAOS, MAURITANIA, MEXICO, NICARAGUA, SUDAN, VENEZUELA, VIETNAM",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Pontiac, MI",
+      "latitude": 42.6389216,
+      "longitude": -83.2910468,
+      "total_arrests": 216,
+      "dates_of_arrest": "02/13/25 - 05/25/26",
+      "criminal_charges": "Assault, Dangerous Drugs, Forgery, Fraudulent Activities, General Crimes, Immigration, Larceny, Obstructing the Police, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, DOMINICAN REPUBLIC, EL SALVADOR, GUATEMALA, HONDURAS, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ypsilanti, MI",
+      "latitude": 42.241051,
+      "longitude": -83.61176462,
+      "total_arrests": 131,
+      "dates_of_arrest": "01/31/25 - 05/13/26",
+      "criminal_charges": "Assault, Dangerous Drugs, Fraudulent Activities, General Crimes, Immigration, Larceny, Obstructing the Police, Public Peace, Sexual Assault, Traffic Offenses",
+      "countries_of_origin": "BRAZIL, CHINA, PEOPLES REPUBLIC OF, COLOMBIA, CUBA, DOMINICAN REPUBLIC, EL SALVADOR, GUATEMALA, HONDURAS, IRAQ, JORDAN, MEXICO, NICARAGUA, UZBEKISTAN, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Southfield, MI",
+      "latitude": 42.4733689,
+      "longitude": -83.2218731,
+      "total_arrests": 69,
+      "dates_of_arrest": "02/11/25 - 05/22/26",
+      "criminal_charges": "Assault, Forgery, Fraudulent Activities, General Crimes, Immigration, Larceny, Sex Offenses (Not Involving Assault or Commercialized Sex), Traffic Offenses",
+      "countries_of_origin": "BAHAMAS, COSTA RICA, CUBA, ECUADOR, EL SALVADOR, GEORGIA, GUATEMALA, HONDURAS, ISRAEL, MEXICO, NICARAGUA, NIGERIA, SENEGAL, UZBEKISTAN, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Troy, MI",
+      "latitude": 42.6055893,
+      "longitude": -83.1499304,
+      "total_arrests": 65,
+      "dates_of_arrest": "01/26/25 - 05/20/26",
+      "criminal_charges": "Assault, Damage Property, Dangerous Drugs, Immigration, Larceny, Sex Offenses (Not Involving Assault or Commercialized Sex), Traffic Offenses",
+      "countries_of_origin": "CHILE, CHINA, PEOPLES REPUBLIC OF, COLOMBIA, CUBA, EGYPT, EL SALVADOR, GUATEMALA, HONDURAS, JAPAN, JORDAN, LIBERIA, MEXICO, NICARAGUA, SRI LANKA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Wyoming, MI",
+      "latitude": 42.9132581,
+      "longitude": -85.7057035,
+      "total_arrests": 55,
+      "dates_of_arrest": "01/30/25 - 05/26/26",
+      "criminal_charges": "Assault, Burglary, Dangerous Drugs, Fraudulent Activities, General Crimes, Homicide, Immigration, Larceny, Obstructing the Police, Traffic Offenses",
+      "countries_of_origin": "EL SALVADOR, GUATEMALA, HONDURAS, MEXICO",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Wixom, MI",
+      "latitude": 42.5246873,
+      "longitude": -83.5363637,
+      "total_arrests": 54,
+      "dates_of_arrest": "06/18/25 - 05/11/26",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF, COLOMBIA, GUATEMALA, HONDURAS, MAURITANIA, MEXICO, SENEGAL, TURKIYE, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Dearborn, MI",
+      "latitude": 42.3222599,
+      "longitude": -83.1763145,
+      "total_arrests": 53,
+      "dates_of_arrest": "02/02/25 - 05/14/26",
+      "criminal_charges": "Assault, Homicide, Obstructing the Police, Threat, Traffic Offenses",
+      "countries_of_origin": "CANADA, COLOMBIA, ECUADOR, GUATEMALA, HONDURAS, IRAN, JORDAN, LEBANON, MAURITANIA, MEXICO, NICARAGUA, SENEGAL, TURKIYE, VENEZUELA, YEMEN",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Clinton Township, MI",
+      "latitude": 42.0554875,
+      "longitude": -83.9478911,
+      "total_arrests": 50,
+      "dates_of_arrest": "04/01/25 - 04/29/26",
+      "criminal_charges": "Burglary, Fraudulent Activities, General Crimes, Obstructing Judiciary, Congress, Legislature, Etc., Robbery, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, EL SALVADOR, HONDURAS, LAOS, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Warren, MI",
+      "latitude": 42.4932575,
+      "longitude": -83.0062746,
+      "total_arrests": 42,
+      "dates_of_arrest": "04/04/25 - 05/17/26",
+      "criminal_charges": "Assault, Burglary, Fraudulent Activities, Immigration",
+      "countries_of_origin": "BANGLADESH, BRAZIL, COLOMBIA, ECUADOR, EL SALVADOR, GUATEMALA, HONDURAS, MAURITANIA, MEXICO, SENEGAL, VENEZUELA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lincoln Park, MI",
+      "latitude": 42.2505943,
+      "longitude": -83.1785361,
+      "total_arrests": 37,
+      "dates_of_arrest": "01/27/25 - 05/06/26",
+      "criminal_charges": "Assault, Dangerous Drugs, Fraudulent Activities, General Crimes, Larceny",
+      "countries_of_origin": "COLOMBIA, DOMINICAN REPUBLIC, GUATEMALA, HONDURAS, JORDAN, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Madison Heights, MI",
+      "latitude": 42.4858692,
+      "longitude": -83.1052028,
+      "total_arrests": 35,
+      "dates_of_arrest": "02/10/25 - 05/28/26",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "CHINA, EL SALVADOR, GUATEMALA, HONDURAS, MEXICO, NICARAGUA, PEOPLES REPUBLIC OF, VENEZUELA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ann Arbor, MI",
+      "latitude": 42.2813722,
+      "longitude": -83.7484616,
+      "total_arrests": 34,
+      "dates_of_arrest": "02/25/25 - 05/13/26",
+      "criminal_charges": "Assault, Flight / Escape, Immigration, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS, IRAN, JORDAN, MEXICO, NICARAGUA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Westland, MI",
+      "latitude": 42.3238056,
+      "longitude": -83.4005321,
+      "total_arrests": 28,
+      "dates_of_arrest": "01/28/25 - 05/13/26",
+      "criminal_charges": "Assault, Dangerous Drugs, Fraudulent Activities, Traffic Offenses",
+      "countries_of_origin": "BENIN, COLOMBIA, GHANA, HONDURAS, INDIA, LEBANON, MEXICO, NICARAGUA, NIGERIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Rochester Hills, MI",
+      "latitude": 42.6583661,
+      "longitude": -83.1499322,
+      "total_arrests": 28,
+      "dates_of_arrest": "01/28/25 - 05/28/26",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, HONDURAS, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Taylor, MI",
+      "latitude": 42.240872,
+      "longitude": -83.26965091,
+      "total_arrests": 25,
+      "dates_of_arrest": "02/28/25 - 05/20/26",
+      "criminal_charges": "Flight / Escape, General Crimes, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, CUBA, GUATEMALA, HONDURAS, INDONESIA, MAURITANIA, MEXICO, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Sterling Heights, MI",
+      "latitude": 42.5803122,
+      "longitude": -83.0302033,
+      "total_arrests": 24,
+      "dates_of_arrest": "06/19/25 - 05/01/26",
+      "criminal_charges": "General Crimes, Larceny, Weapon Offenses",
+      "countries_of_origin": "BOLIVIA, EGYPT, HONDURAS, MEXICO, ROMANIA, SENEGAL, VENEZUELA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Holland, MI",
+      "latitude": 42.7876022,
+      "longitude": -86.1090828,
+      "total_arrests": 24,
+      "dates_of_arrest": "01/27/25 - 05/13/26",
+      "criminal_charges": "Assault, Obstructing the Police, Sex Offenses (Not Involving Assault or Commercialized Sex), Sexual Assault, Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, HONDURAS, INDIA, LAOS, MEXICO, NICARAGUA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Livonia, MI",
+      "latitude": 42.36837,
+      "longitude": -83.3527097,
+      "total_arrests": 21,
+      "dates_of_arrest": "04/22/25 - 05/16/26",
+      "criminal_charges": "Assault, Immigration",
+      "countries_of_origin": "COLOMBIA, CUBA, HONDURAS, INDIA, LEBANON, MEXICO, SENEGAL, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Waterford, MI",
+      "latitude": 42.7022527,
+      "longitude": -83.402718,
+      "total_arrests": 20,
+      "dates_of_arrest": "01/22/25 - 04/30/26",
+      "criminal_charges": "General Crimes, Traffic Offenses",
+      "countries_of_origin": "CHILE, HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Novi, MI",
+      "latitude": 42.48059,
+      "longitude": -83.4754913,
+      "total_arrests": 20,
+      "dates_of_arrest": "03/10/25 - 05/11/26",
+      "criminal_charges": "Assault, Immigration, Traffic Offenses",
+      "countries_of_origin": "ALBANIA, CUBA, GUATEMALA, HONDURAS, MAURITANIA, MEXICO, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Flint, MI",
+      "latitude": 43.0161693,
+      "longitude": -83.6900211,
+      "total_arrests": 19,
+      "dates_of_arrest": "01/27/25 - 05/24/26",
+      "criminal_charges": "Assault, Dangerous Drugs, Larceny, Traffic Offenses, Weapon Offenses",
+      "countries_of_origin": "CUBA, EL SALVADOR, GUATEMALA, HONDURAS, IVORY COAST, MEXICO, PERU, VENEZUELA, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Dearborn Heights, MI",
+      "latitude": 42.3369816,
+      "longitude": -83.2732627,
+      "total_arrests": 18,
+      "dates_of_arrest": "04/25/25 - 05/02/26",
+      "criminal_charges": "Assault, Larceny, Sex Offenses (Not Involving Assault or Commercialized Sex), Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, HONDURAS, IRAQ, LEBANON, MAURITANIA, MEXICO, ROMANIA, SAUDI ARABIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Plymouth, MI",
+      "latitude": 42.3712,
+      "longitude": -83.4675021,
+      "total_arrests": 18,
+      "dates_of_arrest": "01/28/25 - 04/08/26",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF, HONDURAS, MAURITANIA, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Utica, MI",
+      "latitude": 42.6261446,
+      "longitude": -83.0335384,
+      "total_arrests": 16,
+      "dates_of_arrest": "05/05/25 - 05/13/26",
+      "criminal_charges": "Assault, Dangerous Drugs",
+      "countries_of_origin": "ALBANIA, COLOMBIA, GUATEMALA, HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lansing, MI",
+      "latitude": 42.7338254,
+      "longitude": -84.5546295,
+      "total_arrests": 16,
+      "dates_of_arrest": "01/26/25 - 03/30/26",
+      "criminal_charges": "Assault, Burglary, Immigration, Sex Offenses (Not Involving Assault or Commercialized Sex), Sexual Assault, Traffic Offenses",
+      "countries_of_origin": "BHUTAN, CHINA, PEOPLES REPUBLIC OF, CUBA, EL SALVADOR, GUATEMALA, HAITI, INDIA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Southgate, MI",
+      "latitude": 42.2037103,
+      "longitude": -83.2067556,
+      "total_arrests": 16,
+      "dates_of_arrest": "03/17/25 - 05/24/26",
+      "criminal_charges": "Larceny, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, GUATEMALA, MEXICO, PAKISTAN, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Highland Park, MI",
+      "latitude": 42.4055981,
+      "longitude": -83.0965829,
+      "total_arrests": 15,
+      "dates_of_arrest": "08/18/25 - 05/12/26",
+      "criminal_charges": "Fraudulent Activities",
+      "countries_of_origin": "COLOMBIA, HONDURAS, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Howell, MI",
+      "latitude": 42.6072552,
+      "longitude": -83.9293952,
+      "total_arrests": 15,
+      "dates_of_arrest": "04/02/25 - 05/26/26",
+      "criminal_charges": "Obstructing Judiciary, Congress, Legislature, Etc., Sexual Assault, Traffic Offenses, Weapon Offenses",
+      "countries_of_origin": "BRAZIL, COLOMBIA, INDIA, INDONESIA, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Gaylord, MI",
+      "latitude": 45.027513,
+      "longitude": -84.674752,
+      "total_arrests": 15,
+      "dates_of_arrest": "03/14/25 - 09/10/25",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "BAHAMAS, GUATEMALA, HONDURAS, JAMAICA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Rochester, MI",
+      "latitude": 42.680588,
+      "longitude": -83.1338214,
+      "total_arrests": 15,
+      "dates_of_arrest": "02/03/25 - 03/23/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "HONDURAS, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Belleville, MI",
+      "latitude": 42.2048414,
+      "longitude": -83.4852106,
+      "total_arrests": 15,
+      "dates_of_arrest": "03/21/25 - 05/19/26",
+      "criminal_charges": "Assault, Immigration, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, GUATEMALA, HONDURAS, MEXICO, ROMANIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Commerce Township, MI",
+      "latitude": 42.5278865,
+      "longitude": -83.4441816,
+      "total_arrests": 12,
+      "dates_of_arrest": "05/24/25 - 03/26/26",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, GUATEMALA, HONDURAS, MAURITANIA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Trenton, MI",
+      "latitude": 42.1406552,
+      "longitude": -83.1800544,
+      "total_arrests": 12,
+      "dates_of_arrest": "03/05/25 - 05/18/26",
+      "criminal_charges": "",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF, HONDURAS, INDONESIA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "West Bloomfield, MI",
+      "latitude": 42.5676161,
+      "longitude": -83.3592564,
+      "total_arrests": 12,
+      "dates_of_arrest": "03/05/25 - 05/27/26",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA, ISRAEL, MEXICO, UZBEKISTAN, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Wayland, MI",
+      "latitude": 42.6745321,
+      "longitude": -85.6457663,
+      "total_arrests": 12,
+      "dates_of_arrest": "10/02/25 - 03/03/26",
+      "criminal_charges": "Assault, Fraudulent Activities, Immigration",
+      "countries_of_origin": "CUBA, GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Auburn Hills, MI",
+      "latitude": 42.6875323,
+      "longitude": -83.2341028,
+      "total_arrests": 12,
+      "dates_of_arrest": "07/03/25 - 04/05/26",
+      "criminal_charges": "General Crimes, Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Shelby Township, MI",
+      "latitude": 43.5974492,
+      "longitude": -86.3379509,
+      "total_arrests": 11,
+      "dates_of_arrest": "06/09/25 - 05/22/26",
+      "criminal_charges": "Traffic Offenses, Weapon Offenses",
+      "countries_of_origin": "MEXICO, PERU, TUNISIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hazel Park, MI",
+      "latitude": 42.4620142,
+      "longitude": -83.1035688,
+      "total_arrests": 11,
+      "dates_of_arrest": "04/17/25 - 05/10/26",
+      "criminal_charges": "Dangerous Drugs, Liquor",
+      "countries_of_origin": "COLOMBIA, GUATEMALA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Redford, MI",
+      "latitude": 42.3833698,
+      "longitude": -83.2965971,
+      "total_arrests": 11,
+      "dates_of_arrest": "06/30/25 - 05/19/26",
+      "criminal_charges": "Assault, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, CUBA, MEXICO, SENEGAL, SIERRA LEONE, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Oak Park, MI",
+      "latitude": 42.4595317,
+      "longitude": -83.1821445,
+      "total_arrests": 11,
+      "dates_of_arrest": "03/08/25 - 12/24/25",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, LEBANON, MEXICO, NICARAGUA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Romulus, MI",
+      "latitude": 42.2222614,
+      "longitude": -83.3965995,
+      "total_arrests": 10,
+      "dates_of_arrest": "04/09/25 - 05/06/26",
+      "criminal_charges": "Assault, Forgery, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, CUBA, ETHIOPIA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Inkster, MI",
+      "latitude": 42.2942045,
+      "longitude": -83.3099303,
+      "total_arrests": 10,
+      "dates_of_arrest": "04/01/25 - 03/21/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "HONDURAS, IRAQ, MAURITANIA, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Canton, MI",
+      "latitude": 32.612602,
+      "longitude": -90.0367512,
+      "total_arrests": 10,
+      "dates_of_arrest": "03/18/25 - 04/28/26",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "GHANA, JORDAN, MAURITANIA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Clinton Twp, MI",
+      "latitude": 42.0554875,
+      "longitude": -83.9478911,
+      "total_arrests": 10,
+      "dates_of_arrest": "02/03/25 - 03/12/26",
+      "criminal_charges": "Larceny",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Farmington Hills, MI",
+      "latitude": 42.4853125,
+      "longitude": -83.3771553,
+      "total_arrests": 9,
+      "dates_of_arrest": "04/04/25 - 05/15/26",
+      "criminal_charges": "",
+      "countries_of_origin": "ALBANIA, GUATEMALA, HONDURAS, INDIA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "White Lake, MI",
+      "latitude": 43.3886586,
+      "longitude": -86.3666105,
+      "total_arrests": 9,
+      "dates_of_arrest": "12/31/25 - 02/26/26",
+      "criminal_charges": "Commercialized Sexual Offenses, Immigration",
+      "countries_of_origin": "COLOMBIA, HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Roseville, MI",
+      "latitude": 42.4972583,
+      "longitude": -82.9371409,
+      "total_arrests": 9,
+      "dates_of_arrest": "07/30/25 - 05/04/26",
+      "criminal_charges": "",
+      "countries_of_origin": "BRAZIL, COLOMBIA, DOMINICAN REPUBLIC, EL SALVADOR, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Stephenson, MI",
+      "latitude": 45.415251,
+      "longitude": -87.607616,
+      "total_arrests": 8,
+      "dates_of_arrest": "07/24/25 - 07/24/25",
+      "criminal_charges": "Assault, Fraudulent Activities",
+      "countries_of_origin": "HONDURAS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Monroe, MI",
+      "latitude": 41.9153358,
+      "longitude": -83.5135665,
+      "total_arrests": 8,
+      "dates_of_arrest": "01/21/25 - 04/11/26",
+      "criminal_charges": "Assault, Traffic Offenses",
+      "countries_of_origin": "CUBA, MEXICO, VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hamtramck, MI",
+      "latitude": 42.3928151,
+      "longitude": -83.04964384,
+      "total_arrests": 8,
+      "dates_of_arrest": "08/08/25 - 04/28/26",
+      "criminal_charges": "General Crimes, Traffic Offenses",
+      "countries_of_origin": "BANGLADESH, COLOMBIA, HONDURAS, MAURITANIA, RUSSIA, SENEGAL, UKRAINE",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Muskegon, MI",
+      "latitude": 43.2341813,
+      "longitude": -86.2483921,
+      "total_arrests": 7,
+      "dates_of_arrest": "04/01/25 - 03/13/26",
+      "criminal_charges": "Assault, Burglary, Fraudulent Activities, Public Peace, Sex Offenses (Not Involving Assault or Commercialized Sex)",
+      "countries_of_origin": "GUATEMALA, LAOS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Adrian, MI",
+      "latitude": 41.8975152,
+      "longitude": -84.0373054,
+      "total_arrests": 7,
+      "dates_of_arrest": "02/05/25 - 07/08/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "HONDURAS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Byron Center, MI",
+      "latitude": 42.8143115,
+      "longitude": -85.7279047,
+      "total_arrests": 7,
+      "dates_of_arrest": "07/09/25 - 05/27/26",
+      "criminal_charges": "Assault, Sexual Assault",
+      "countries_of_origin": "GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Farmington, MI",
+      "latitude": 42.4644795,
+      "longitude": -83.3763219,
+      "total_arrests": 7,
+      "dates_of_arrest": "05/16/25 - 02/18/26",
+      "criminal_charges": "Commercialized Sexual Offenses",
+      "countries_of_origin": "ALBANIA, GUATEMALA, HONDURAS, KOSOVO, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hudsonville, MI",
+      "latitude": 42.870889,
+      "longitude": -85.865235,
+      "total_arrests": 7,
+      "dates_of_arrest": "09/30/25 - 03/17/26",
+      "criminal_charges": "Assault, Family Offenses",
+      "countries_of_origin": "GUATEMALA, LAOS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Clarkston, MI",
+      "latitude": 42.735863,
+      "longitude": -83.4188304,
+      "total_arrests": 7,
+      "dates_of_arrest": "02/04/25 - 02/28/26",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Allen Park, MI",
+      "latitude": 42.2595071,
+      "longitude": -83.2107671,
+      "total_arrests": 7,
+      "dates_of_arrest": "06/21/25 - 05/19/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, HONDURAS, MAURITANIA, MEXICO, MOLDOVA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Fraser, MI",
+      "latitude": 42.539202,
+      "longitude": -82.9493652,
+      "total_arrests": 6,
+      "dates_of_arrest": "03/04/25 - 01/22/26",
+      "criminal_charges": "",
+      "countries_of_origin": "BANGLADESH, COLOMBIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Royal Oak, MI",
+      "latitude": 42.4894801,
+      "longitude": -83.1446485,
+      "total_arrests": 6,
+      "dates_of_arrest": "09/17/25 - 04/29/26",
+      "criminal_charges": "Obstructing the Police, Traffic Offenses",
+      "countries_of_origin": "EL SALVADOR, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ecorse, MI",
+      "latitude": 42.2444833,
+      "longitude": -83.145757,
+      "total_arrests": 6,
+      "dates_of_arrest": "08/18/25 - 05/03/26",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Fenton, MI",
+      "latitude": 42.7978061,
+      "longitude": -83.7049498,
+      "total_arrests": 6,
+      "dates_of_arrest": "01/30/26 - 05/03/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Comstock Park, MI",
+      "latitude": 43.0436436,
+      "longitude": -85.6794889,
+      "total_arrests": 6,
+      "dates_of_arrest": "06/01/25 - 04/30/26",
+      "criminal_charges": "Immigration, Public Peace, Traffic Offenses",
+      "countries_of_origin": "ECUADOR, GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Walled Lake, MI",
+      "latitude": 42.537811,
+      "longitude": -83.4810481,
+      "total_arrests": 5,
+      "dates_of_arrest": "05/16/25 - 01/13/26",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "ITALY, MEXICO, RUSSIA, TURKIYE",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Chesterfield, MI",
+      "latitude": 42.4331859,
+      "longitude": -83.3037293,
+      "total_arrests": 5,
+      "dates_of_arrest": "03/28/25 - 03/30/26",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "COLOMBIA, ECUADOR, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Kalamazoo, MI",
+      "latitude": 42.291707,
+      "longitude": -85.5872286,
+      "total_arrests": 5,
+      "dates_of_arrest": "03/24/25 - 10/23/25",
+      "criminal_charges": "Dangerous Drugs, Immigration, Sexual Assault",
+      "countries_of_origin": "COLOMBIA, GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Traverse City, MI",
+      "latitude": 44.7606481,
+      "longitude": -85.6165976,
+      "total_arrests": 5,
+      "dates_of_arrest": "07/04/25 - 07/16/25",
+      "criminal_charges": "Larceny",
+      "countries_of_origin": "HONDURAS, NICARAGUA, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Croswell, MI",
+      "latitude": 43.275581,
+      "longitude": -82.621038,
+      "total_arrests": 5,
+      "dates_of_arrest": "06/05/25 - 06/05/25",
+      "criminal_charges": "",
+      "countries_of_origin": "CONGO, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Shelbyville, MI",
+      "latitude": 42.5941998,
+      "longitude": -85.6372414,
+      "total_arrests": 5,
+      "dates_of_arrest": "12/26/25 - 12/26/25",
+      "criminal_charges": "",
+      "countries_of_origin": "EL SALVADOR, GUATEMALA, HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Dorr, MI",
+      "latitude": 42.725308,
+      "longitude": -85.7225259,
+      "total_arrests": 5,
+      "dates_of_arrest": "03/17/26 - 03/17/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Zeeland, MI",
+      "latitude": 42.8123375,
+      "longitude": -86.0165267,
+      "total_arrests": 5,
+      "dates_of_arrest": "07/09/25 - 04/28/26",
+      "criminal_charges": "Dangerous Drugs, Sexual Assault, Traffic Offenses",
+      "countries_of_origin": "EL SALVADOR, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Milford, MI",
+      "latitude": 42.5917805,
+      "longitude": -83.6000696,
+      "total_arrests": 5,
+      "dates_of_arrest": "02/11/25 - 01/08/26",
+      "criminal_charges": "Larceny",
+      "countries_of_origin": "MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Petoskey, MI",
+      "latitude": 45.373343,
+      "longitude": -84.95533,
+      "total_arrests": 5,
+      "dates_of_arrest": "02/05/25 - 07/16/25",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, EL SALVADOR, JAMAICA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Eastpointe, MI",
+      "latitude": 42.4683698,
+      "longitude": -82.9554746,
+      "total_arrests": 5,
+      "dates_of_arrest": "08/26/25 - 05/26/26",
+      "criminal_charges": "Fraudulent Activities",
+      "countries_of_origin": "ALBANIA, GUATEMALA, SENEGAL, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Woodhaven, MI",
+      "latitude": 42.1370519,
+      "longitude": -83.2451066,
+      "total_arrests": 4,
+      "dates_of_arrest": "09/09/25 - 04/26/26",
+      "criminal_charges": "",
+      "countries_of_origin": "INDONESIA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Melvindale, MI",
+      "latitude": 42.2825383,
+      "longitude": -83.175203,
+      "total_arrests": 4,
+      "dates_of_arrest": "07/18/25 - 04/21/26",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "DOMINICAN REPUBLIC, HONDURAS, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Wayne, MI",
+      "latitude": 42.2682408,
+      "longitude": -83.2844172,
+      "total_arrests": 4,
+      "dates_of_arrest": "01/26/25 - 03/10/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "INDIA, MAURITANIA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grand Haven, MI",
+      "latitude": 43.0630734,
+      "longitude": -86.2283864,
+      "total_arrests": 4,
+      "dates_of_arrest": "08/06/25 - 05/17/26",
+      "criminal_charges": "Assault, Public Peace",
+      "countries_of_origin": "CANADA, GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grandville, MI",
+      "latitude": 42.909598,
+      "longitude": -85.7630956,
+      "total_arrests": 4,
+      "dates_of_arrest": "11/14/25 - 03/11/26",
+      "criminal_charges": "Immigration, Public Peace, Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Brownstown Twp, MI",
+      "latitude": 42.1529228,
+      "longitude": -83.2753247,
+      "total_arrests": 4,
+      "dates_of_arrest": "07/24/25 - 05/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "COLOMBIA, HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "New Hudson, MI",
+      "latitude": 42.511726,
+      "longitude": -83.6156648,
+      "total_arrests": 4,
+      "dates_of_arrest": "04/23/25 - 12/17/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grand Blanc, MI",
+      "latitude": 42.9275277,
+      "longitude": -83.6299518,
+      "total_arrests": 4,
+      "dates_of_arrest": "09/03/25 - 04/21/26",
+      "criminal_charges": "Family Offenses",
+      "countries_of_origin": "CUBA, EL SALVADOR, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Caledonia, MI",
+      "latitude": 42.7891193,
+      "longitude": -85.5163391,
+      "total_arrests": 4,
+      "dates_of_arrest": "06/23/25 - 02/20/26",
+      "criminal_charges": "Assault, Traffic Offenses",
+      "countries_of_origin": "BHUTAN, HONDURAS, MEXICO, SPAIN",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lapeer, MI",
+      "latitude": 43.0904764,
+      "longitude": -83.2333705,
+      "total_arrests": 4,
+      "dates_of_arrest": "02/01/26 - 04/27/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS, MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saint Clair Shores, MI",
+      "latitude": 42.4969652,
+      "longitude": -82.8890965,
+      "total_arrests": 4,
+      "dates_of_arrest": "06/18/25 - 04/07/26",
+      "criminal_charges": "Dangerous Drugs, Immigration, Traffic Offenses",
+      "countries_of_origin": "CANADA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mount Clemens, MI",
+      "latitude": 42.5972563,
+      "longitude": -82.8779754,
+      "total_arrests": 3,
+      "dates_of_arrest": "04/09/25 - 02/13/26",
+      "criminal_charges": "Burglary, Traffic Offenses",
+      "countries_of_origin": "ROMANIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Riverview, MI",
+      "latitude": 42.1742073,
+      "longitude": -83.1793697,
+      "total_arrests": 3,
+      "dates_of_arrest": "10/30/25 - 02/13/26",
+      "criminal_charges": "",
+      "countries_of_origin": "DOMINICAN REPUBLIC, MAURITANIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "River Rouge, MI",
+      "latitude": 42.2729262,
+      "longitude": -83.1352891,
+      "total_arrests": 3,
+      "dates_of_arrest": "01/27/25 - 12/09/25",
+      "criminal_charges": "Assault, Traffic Offenses",
+      "countries_of_origin": "COLOMBIA, MAURITANIA, VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Rockwood, MI",
+      "latitude": 42.0708765,
+      "longitude": -83.2465957,
+      "total_arrests": 3,
+      "dates_of_arrest": "05/18/26 - 05/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA, HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Roscommon, MI",
+      "latitude": 44.3326932,
+      "longitude": -84.6165164,
+      "total_arrests": 3,
+      "dates_of_arrest": "09/26/25 - 09/30/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Birmingham, MI",
+      "latitude": 42.5467012,
+      "longitude": -83.2113192,
+      "total_arrests": 3,
+      "dates_of_arrest": "11/23/25 - 02/02/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Washington, MI",
+      "latitude": 42.3021687,
+      "longitude": -83.257153,
+      "total_arrests": 3,
+      "dates_of_arrest": "05/18/26 - 05/18/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Brownstown, MI",
+      "latitude": 42.1529228,
+      "longitude": -83.2753247,
+      "total_arrests": 3,
+      "dates_of_arrest": "01/31/26 - 05/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Marne, MI",
+      "latitude": 43.0354509,
+      "longitude": -85.8277515,
+      "total_arrests": 3,
+      "dates_of_arrest": "01/15/26 - 05/27/26",
+      "criminal_charges": "",
+      "countries_of_origin": "EL SALVADOR, GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Van Buren Township, MI",
+      "latitude": 42.2207982,
+      "longitude": -83.4841464,
+      "total_arrests": 3,
+      "dates_of_arrest": "10/21/25 - 04/01/26",
+      "criminal_charges": "",
+      "countries_of_origin": "CAMEROON, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Center Line, MI",
+      "latitude": 42.4850362,
+      "longitude": -83.0277002,
+      "total_arrests": 3,
+      "dates_of_arrest": "03/27/25 - 04/29/26",
+      "criminal_charges": "",
+      "countries_of_origin": "KAZAKHSTAN, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Shelby Twp, MI",
+      "latitude": 43.5974492,
+      "longitude": -86.3379509,
+      "total_arrests": 3,
+      "dates_of_arrest": "02/07/25 - 05/18/26",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lenox, MI",
+      "latitude": 42.7643581,
+      "longitude": -82.7966717,
+      "total_arrests": 3,
+      "dates_of_arrest": "06/17/25 - 06/17/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Sturgis, MI",
+      "latitude": 41.799217,
+      "longitude": -85.4191482,
+      "total_arrests": 3,
+      "dates_of_arrest": "09/04/25 - 09/05/25",
+      "criminal_charges": "Dangerous Drugs",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "East Lansing, MI",
+      "latitude": 42.7320307,
+      "longitude": -84.4721678,
+      "total_arrests": 3,
+      "dates_of_arrest": "07/14/25 - 02/09/26",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "IRAN, MEXICO, MONGOLIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Deckerville, MI",
+      "latitude": 43.526686,
+      "longitude": -82.735211,
+      "total_arrests": 3,
+      "dates_of_arrest": "04/18/26 - 04/20/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lake Orion, MI",
+      "latitude": 42.7844752,
+      "longitude": -83.2396612,
+      "total_arrests": 3,
+      "dates_of_arrest": "11/19/25 - 11/19/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mt Pleasant, MI",
+      "latitude": 43.597646,
+      "longitude": -84.7668495,
+      "total_arrests": 2,
+      "dates_of_arrest": "02/04/25 - 02/04/25",
+      "criminal_charges": "Immigration, Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Harper Woods, MI",
+      "latitude": 42.4333367,
+      "longitude": -82.9238847,
+      "total_arrests": 2,
+      "dates_of_arrest": "11/11/25 - 04/17/26",
+      "criminal_charges": "",
+      "countries_of_origin": "SENEGAL",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Wolverine Lake, MI",
+      "latitude": 42.5566926,
+      "longitude": -83.4761395,
+      "total_arrests": 2,
+      "dates_of_arrest": "05/24/25 - 05/29/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, NIGERIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Detriot, MI",
+      "latitude": 42.3315509,
+      "longitude": -83.0466403,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/30/25 - 11/26/25",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Coopersville, MI",
+      "latitude": 43.0639112,
+      "longitude": -85.9347667,
+      "total_arrests": 2,
+      "dates_of_arrest": "08/13/25 - 05/24/26",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Commerce, MI",
+      "latitude": 42.5911431,
+      "longitude": -83.4907721,
+      "total_arrests": 2,
+      "dates_of_arrest": "12/05/25 - 05/05/26",
+      "criminal_charges": "",
+      "countries_of_origin": "COLOMBIA, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Commerce Twp, MI",
+      "latitude": 42.5911431,
+      "longitude": -83.4907721,
+      "total_arrests": 2,
+      "dates_of_arrest": "08/11/25 - 11/22/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Kentwood, MI",
+      "latitude": 42.8694731,
+      "longitude": -85.6447492,
+      "total_arrests": 2,
+      "dates_of_arrest": "08/28/25 - 11/08/25",
+      "criminal_charges": "Larceny",
+      "countries_of_origin": "MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Charlotte, MI",
+      "latitude": 42.5637369,
+      "longitude": -84.8355792,
+      "total_arrests": 2,
+      "dates_of_arrest": "07/01/25 - 07/01/25",
+      "criminal_charges": "Assault, Traffic Offenses",
+      "countries_of_origin": "NICARAGUA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Macomb Township, MI",
+      "latitude": 42.6726042,
+      "longitude": -82.9179487,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/28/26 - 05/22/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Flat Rock, MI",
+      "latitude": 42.0964314,
+      "longitude": -83.2918744,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/26/26 - 04/26/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Van Buren Twp., MI",
+      "latitude": 42.2207982,
+      "longitude": -83.4841464,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/14/25 - 05/19/26",
+      "criminal_charges": "Embezzlement",
+      "countries_of_origin": "ECUADOR, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Brownstown Township, MI",
+      "latitude": 42.1529228,
+      "longitude": -83.2753247,
+      "total_arrests": 2,
+      "dates_of_arrest": "01/24/26 - 02/08/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Burton, MI",
+      "latitude": 42.9897333,
+      "longitude": -83.6335032,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/24/26 - 03/24/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ionia, MI",
+      "latitude": 42.9469688,
+      "longitude": -85.0713945,
+      "total_arrests": 2,
+      "dates_of_arrest": "10/03/25 - 10/03/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Independence Township, MI",
+      "latitude": 40.5012804,
+      "longitude": -94.6886062,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/23/25 - 04/23/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Northville, MI",
+      "latitude": 42.4310816,
+      "longitude": -83.4832339,
+      "total_arrests": 2,
+      "dates_of_arrest": "01/21/25 - 11/19/25",
+      "criminal_charges": "Fraudulent Activities",
+      "countries_of_origin": "ALBANIA, NIGERIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Norton Shores, MI",
+      "latitude": 43.1689044,
+      "longitude": -86.2639461,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/13/26 - 03/13/26",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Martin, MI",
+      "latitude": 42.5369783,
+      "longitude": -85.6416846,
+      "total_arrests": 2,
+      "dates_of_arrest": "10/21/25 - 10/21/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Nunica, MI",
+      "latitude": 43.0797424,
+      "longitude": -86.0672715,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/31/26 - 03/31/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saline, MI",
+      "latitude": 42.1667072,
+      "longitude": -83.7816075,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/11/25 - 10/24/25",
+      "criminal_charges": "",
+      "countries_of_origin": "ECUADOR, JORDAN",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mendon, MI",
+      "latitude": 42.0064378,
+      "longitude": -85.4499887,
+      "total_arrests": 2,
+      "dates_of_arrest": "07/03/25 - 07/03/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Waterford Township, MI",
+      "latitude": 42.6706391,
+      "longitude": -83.3896241,
+      "total_arrests": 2,
+      "dates_of_arrest": "09/18/25 - 02/04/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO, VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Gibraltar, MI",
+      "latitude": 42.0950426,
+      "longitude": -83.1896484,
+      "total_arrests": 2,
+      "dates_of_arrest": "05/14/26 - 05/17/26",
+      "criminal_charges": "",
+      "countries_of_origin": "COLOMBIA, GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Benton Harbor, MI",
+      "latitude": 42.1167065,
+      "longitude": -86.4541894,
+      "total_arrests": 2,
+      "dates_of_arrest": "03/28/25 - 08/12/25",
+      "criminal_charges": "Sexual Assault, Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Gobles, MI",
+      "latitude": 42.3608691,
+      "longitude": -85.8794636,
+      "total_arrests": 2,
+      "dates_of_arrest": "05/12/26 - 05/12/26",
+      "criminal_charges": "Liquor",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grant, MI",
+      "latitude": 43.336132,
+      "longitude": -85.810882,
+      "total_arrests": 2,
+      "dates_of_arrest": "06/16/25 - 08/12/25",
+      "criminal_charges": "Assault, Obstructing Judiciary, Congress, Legislature, Etc.",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Bangor, MI",
+      "latitude": 42.3125356,
+      "longitude": -86.1130794,
+      "total_arrests": 2,
+      "dates_of_arrest": "07/21/25 - 05/12/26",
+      "criminal_charges": "Dangerous Drugs",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF, GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Battle Creek, MI",
+      "latitude": 42.3192548,
+      "longitude": -85.1824269,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/03/25 - 10/22/25",
+      "criminal_charges": "",
+      "countries_of_origin": "COLOMBIA, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Harrison Township, MI",
+      "latitude": 42.5886235,
+      "longitude": -82.8217131,
+      "total_arrests": 2,
+      "dates_of_arrest": "02/24/26 - 02/24/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Allendale, MI",
+      "latitude": 42.9903205,
+      "longitude": -85.9529685,
+      "total_arrests": 2,
+      "dates_of_arrest": "04/08/25 - 04/17/26",
+      "criminal_charges": "Dangerous Drugs, Immigration",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Fennville, MI",
+      "latitude": 42.5941052,
+      "longitude": -86.104596,
+      "total_arrests": 2,
+      "dates_of_arrest": "05/09/25 - 02/14/26",
+      "criminal_charges": "Assault, Dangerous Drugs",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Unkown, MI",
+      "latitude": 37.6888353,
+      "longitude": -89.8915683,
+      "total_arrests": 2,
+      "dates_of_arrest": "07/02/25 - 02/24/26",
+      "criminal_charges": "",
+      "countries_of_origin": "BRAZIL, MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mundy Township, MI",
+      "latitude": 42.9144355,
+      "longitude": -83.7504102,
+      "total_arrests": 1,
+      "dates_of_arrest": "10/28/25 - 10/28/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Muskegon Heights, MI",
+      "latitude": 43.201126,
+      "longitude": -86.238946,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/14/26 - 05/14/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mount Pleasant, MI",
+      "latitude": 43.597646,
+      "longitude": -84.7668495,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/04/25 - 02/04/25",
+      "criminal_charges": "Liquor",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Miami, MI",
+      "latitude": 25.7741728,
+      "longitude": -80.19362,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/28/25 - 05/28/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Milan, MI",
+      "latitude": 42.0848616,
+      "longitude": -83.6830279,
+      "total_arrests": 1,
+      "dates_of_arrest": "11/06/25 - 11/06/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Middleville, MI",
+      "latitude": 42.7130889,
+      "longitude": -85.4619599,
+      "total_arrests": 1,
+      "dates_of_arrest": "03/24/26 - 03/24/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Niles, MI",
+      "latitude": 41.8297694,
+      "longitude": -86.2541768,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/11/25 - 02/11/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Midland, MI",
+      "latitude": 43.6155825,
+      "longitude": -84.2472117,
+      "total_arrests": 1,
+      "dates_of_arrest": "11/10/25 - 11/10/25",
+      "criminal_charges": "Burglary",
+      "countries_of_origin": "CUBA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mc Bain, MI",
+      "latitude": 44.1927277,
+      "longitude": -85.2108407,
+      "total_arrests": 1,
+      "dates_of_arrest": "09/29/25 - 09/29/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mason, MI",
+      "latitude": 43.9778831,
+      "longitude": -86.246291,
+      "total_arrests": 1,
+      "dates_of_arrest": "08/05/25 - 08/05/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mancelona, MI",
+      "latitude": 44.902229,
+      "longitude": -85.060885,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/14/25 - 05/14/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Orion Twp, MI",
+      "latitude": 42.7516513,
+      "longitude": -83.26423,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/20/25 - 06/20/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lenox Township, MI",
+      "latitude": 42.7643581,
+      "longitude": -82.7966717,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/17/25 - 06/17/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Lincoln, MI",
+      "latitude": 44.684735,
+      "longitude": -83.412194,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/26/26 - 05/26/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Paw Paw, MI",
+      "latitude": 42.2178171,
+      "longitude": -85.8911246,
+      "total_arrests": 1,
+      "dates_of_arrest": "12/10/25 - 12/10/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Keego Harbor, MI",
+      "latitude": 42.6080884,
+      "longitude": -83.3438248,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/24/26 - 01/24/26",
+      "criminal_charges": "General Crimes",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Kent City, MI",
+      "latitude": 43.220024,
+      "longitude": -85.751154,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/18/25 - 02/18/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ip, MI",
+      "latitude": 44.0832281,
+      "longitude": -74.5688316,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/17/26 - 04/17/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Portage, MI",
+      "latitude": 42.2011538,
+      "longitude": -85.5800022,
+      "total_arrests": 1,
+      "dates_of_arrest": "03/12/25 - 03/12/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Imlay City, MI",
+      "latitude": 43.0247496,
+      "longitude": -83.0777153,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/26/25 - 01/26/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Port Huron, MI",
+      "latitude": 42.9760854,
+      "longitude": -82.4333742,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/26/25 - 06/26/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hopkins, MI",
+      "latitude": 42.6236425,
+      "longitude": -85.7603024,
+      "total_arrests": 1,
+      "dates_of_arrest": "10/16/25 - 10/16/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Pullman, MI",
+      "latitude": 42.4836419,
+      "longitude": -86.0914189,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/01/25 - 05/01/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Highland, MI",
+      "latitude": 44.1455678,
+      "longitude": -85.2664329,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/21/26 - 05/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Highland Township, MI",
+      "latitude": 44.1202945,
+      "longitude": -85.2660912,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/21/26 - 05/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Redford Township, MI",
+      "latitude": 42.3945469,
+      "longitude": -83.2953927,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/07/26 - 05/07/26",
+      "criminal_charges": "",
+      "countries_of_origin": "SENEGAL",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hazel, MI",
+      "latitude": 46.7899333,
+      "longitude": -88.7179119,
+      "total_arrests": 1,
+      "dates_of_arrest": "12/08/25 - 12/08/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Harrisville, MI",
+      "latitude": 44.656402,
+      "longitude": -83.294689,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/17/25 - 06/17/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hartford, MI",
+      "latitude": 42.2067051,
+      "longitude": -86.1666876,
+      "total_arrests": 1,
+      "dates_of_arrest": "11/02/25 - 11/02/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Hamilton, MI",
+      "latitude": 42.6772496,
+      "longitude": -86.0061464,
+      "total_arrests": 1,
+      "dates_of_arrest": "08/23/25 - 08/23/25",
+      "criminal_charges": "Larceny",
+      "countries_of_origin": "LAOS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grosse Ile Twp, MI",
+      "latitude": 42.1287503,
+      "longitude": -83.1586016,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/04/26 - 05/04/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grand Ledge, MI",
+      "latitude": 42.7524401,
+      "longitude": -84.7463572,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/03/25 - 06/03/25",
+      "criminal_charges": "",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grand Blanc Township, MI",
+      "latitude": 42.916257,
+      "longitude": -83.6664999,
+      "total_arrests": 1,
+      "dates_of_arrest": "10/28/25 - 10/28/25",
+      "criminal_charges": "",
+      "countries_of_origin": "CUBA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Grand Rapids Mi., MI",
+      "latitude": 42.9632425,
+      "longitude": -85.6678639,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/26/26 - 01/26/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saginaw, MI",
+      "latitude": 43.4200387,
+      "longitude": -83.9490365,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/11/25 - 05/11/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Glendale, MI",
+      "latitude": 42.3028149,
+      "longitude": -85.9564087,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/18/25 - 06/18/25",
+      "criminal_charges": "General Crimes",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Genesee, MI",
+      "latitude": 43.0220032,
+      "longitude": -83.7274305,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/22/26 - 05/22/26",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saint Johns, MI",
+      "latitude": 43.000928,
+      "longitude": -84.5585098,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/15/25 - 07/15/25",
+      "criminal_charges": "Burglary",
+      "countries_of_origin": "THAILAND",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saint Joseph, MI",
+      "latitude": 41.9031963,
+      "longitude": -85.5356726,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/11/26 - 02/11/26",
+      "criminal_charges": "Sexual Assault",
+      "countries_of_origin": "VIETNAM",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saint Helen, MI",
+      "latitude": 44.3636299,
+      "longitude": -84.4102912,
+      "total_arrests": 1,
+      "dates_of_arrest": "09/26/25 - 09/26/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Saint Ignace, MI",
+      "latitude": 45.8686681,
+      "longitude": -84.7278146,
+      "total_arrests": 1,
+      "dates_of_arrest": "03/18/25 - 03/18/25",
+      "criminal_charges": "",
+      "countries_of_origin": "JAMAICA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Franklin, MI",
+      "latitude": 42.5222567,
+      "longitude": -83.3060432,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/03/25 - 06/03/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Fruitport, MI",
+      "latitude": 43.13067,
+      "longitude": -86.154682,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/05/26 - 05/05/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Sand Lake, MI",
+      "latitude": 43.29238,
+      "longitude": -85.518073,
+      "total_arrests": 1,
+      "dates_of_arrest": "08/07/25 - 08/07/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Sault Ste Marie, MI",
+      "latitude": 46.4976734,
+      "longitude": -84.3476583,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/22/26 - 04/22/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ferndale, MI",
+      "latitude": 42.4605917,
+      "longitude": -83.1346478,
+      "total_arrests": 1,
+      "dates_of_arrest": "10/28/25 - 10/28/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Elise, MI",
+      "latitude": 42.636154,
+      "longitude": -85.2241978,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/29/25 - 01/29/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Det, MI",
+      "latitude": 42.4112444,
+      "longitude": -83.0085306,
+      "total_arrests": 1,
+      "dates_of_arrest": "11/04/25 - 11/04/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "St. Ignace, MI",
+      "latitude": 45.8686681,
+      "longitude": -84.7278146,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/04/26 - 05/04/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Davison, MI",
+      "latitude": 43.0346872,
+      "longitude": -83.5180155,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/05/26 - 02/05/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "St. Paul, MI",
+      "latitude": 43.8771847,
+      "longitude": -85.7995379,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/08/25 - 06/08/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Sterling Hts, MI",
+      "latitude": 42.5803122,
+      "longitude": -83.0302033,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/09/25 - 06/09/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Comstock Parkgrm, MI",
+      "latitude": 43.0436436,
+      "longitude": -85.6794889,
+      "total_arrests": 1,
+      "dates_of_arrest": "11/24/25 - 11/24/25",
+      "criminal_charges": "Immigration",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Columbus, MI",
+      "latitude": 42.882252,
+      "longitude": -82.6624207,
+      "total_arrests": 1,
+      "dates_of_arrest": "12/19/25 - 12/19/25",
+      "criminal_charges": "Assault",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Clinton, MI",
+      "latitude": 42.9435238,
+      "longitude": -84.6125345,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/18/25 - 07/18/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Charlevoix, MI",
+      "latitude": 45.202075,
+      "longitude": -84.9676387,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/01/25 - 04/01/25",
+      "criminal_charges": "Burglary",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": "✅"
+    },
+    {
+      "neighborhood": "Centerville, MI",
+      "latitude": 44.9079492,
+      "longitude": -85.7629918,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/16/25 - 06/16/25",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Casco, MI",
+      "latitude": 42.7525317,
+      "longitude": -82.6715845,
+      "total_arrests": 1,
+      "dates_of_arrest": "06/17/25 - 06/17/25",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Tylor, MI",
+      "latitude": 42.240872,
+      "longitude": -83.26965091,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/25/25 - 07/25/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Canton Township, MI",
+      "latitude": 42.3076547,
+      "longitude": -83.4868961,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/20/26 - 05/20/26",
+      "criminal_charges": "",
+      "countries_of_origin": "RUSSIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Bruce Township, MI",
+      "latitude": 42.8466256,
+      "longitude": -83.0415404,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/09/26 - 04/09/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "W. Olive, MI",
+      "latitude": 42.921341,
+      "longitude": -86.1471466,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/25/25 - 07/25/25",
+      "criminal_charges": "Fraudulent Activities",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Brighton, MI",
+      "latitude": 42.5316918,
+      "longitude": -83.7846458,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/18/26 - 01/18/26",
+      "criminal_charges": "",
+      "countries_of_origin": "COLOMBIA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Washington Twp, MI",
+      "latitude": 43.3824292,
+      "longitude": -82.6884973,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/18/26 - 05/18/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Washington Township, MI",
+      "latitude": 43.3824292,
+      "longitude": -82.6884973,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/18/26 - 05/18/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Brand Blanc, MI",
+      "latitude": 42.9275277,
+      "longitude": -83.6299518,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/21/26 - 04/21/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Bloomfield, MI",
+      "latitude": 42.5378124,
+      "longitude": -83.2329863,
+      "total_arrests": 1,
+      "dates_of_arrest": "08/06/25 - 08/06/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Beverly Hills, MI",
+      "latitude": 42.5226219,
+      "longitude": -83.241357,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/20/26 - 05/20/26",
+      "criminal_charges": "",
+      "countries_of_origin": "HONDURAS",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Belmont, MI",
+      "latitude": 43.0755822,
+      "longitude": -85.6091987,
+      "total_arrests": 1,
+      "dates_of_arrest": "05/28/26 - 05/28/26",
+      "criminal_charges": "",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Berkley, MI",
+      "latitude": 42.5030909,
+      "longitude": -83.1835389,
+      "total_arrests": 1,
+      "dates_of_arrest": "12/12/25 - 12/12/25",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "West Olive, MI",
+      "latitude": 42.921341,
+      "longitude": -86.147147,
+      "total_arrests": 1,
+      "dates_of_arrest": "01/07/26 - 01/07/26",
+      "criminal_charges": "Sexual Assault",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Baldwin, MI",
+      "latitude": 43.901123,
+      "longitude": -85.851729,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/30/25 - 07/30/25",
+      "criminal_charges": "",
+      "countries_of_origin": "CHINA, PEOPLES REPUBLIC OF",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "White Lake  Twp, MI",
+      "latitude": 42.6555688,
+      "longitude": -83.5007875,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/26/26 - 02/26/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Argyle Township, MI",
+      "latitude": 43.5508194,
+      "longitude": -82.9349198,
+      "total_arrests": 1,
+      "dates_of_arrest": "04/20/26 - 04/20/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Aubrun Hills, MI",
+      "latitude": 42.6875323,
+      "longitude": -83.2341028,
+      "total_arrests": 1,
+      "dates_of_arrest": "03/22/26 - 03/22/26",
+      "criminal_charges": "",
+      "countries_of_origin": "VENEZUELA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Allegan, MI",
+      "latitude": 42.5867203,
+      "longitude": -85.8861492,
+      "total_arrests": 1,
+      "dates_of_arrest": "02/13/26 - 02/13/26",
+      "criminal_charges": "Traffic Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ypsialnti, MI",
+      "latitude": 42.241051,
+      "longitude": -83.61176462,
+      "total_arrests": 1,
+      "dates_of_arrest": "07/06/25 - 07/06/25",
+      "criminal_charges": "",
+      "countries_of_origin": "GUATEMALA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Ypsilanti Twp, MI",
+      "latitude": 42.2033048,
+      "longitude": -83.608886,
+      "total_arrests": 1,
+      "dates_of_arrest": "08/13/25 - 08/13/25",
+      "criminal_charges": "",
+      "countries_of_origin": "NICARAGUA",
+      "gang_affiliation": ""
+    },
+    {
+      "neighborhood": "Mt. Clemens, MI",
+      "latitude": 42.5972563,
+      "longitude": -82.8779754,
+      "total_arrests": 1,
+      "dates_of_arrest": "10/08/25 - 10/08/25",
+      "criminal_charges": "Weapon Offenses",
+      "countries_of_origin": "MEXICO",
+      "gang_affiliation": ""
+    }
+  ]
+}
